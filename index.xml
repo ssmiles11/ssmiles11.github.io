@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GridCon Consulting GmbH</title>
+    <link>https://ssmiles11.github.io/</link>
+    <description>Recent content on GridCon Consulting GmbH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 May 2022 14:16:56 +0200</lastBuildDate><atom:link href="https://ssmiles11.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Select_17</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_17/</link>
+      <pubDate>Fri, 06 May 2022 14:16:56 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_17/</guid>
+      <description>GRC² bietet eine ganze Reihe Meldewesen-spezifischer Testfunktionen. GRC² Regressiontest ist jedoch für beliebige weitere Softwaresysteme einsetzbar und wir bieten Module zum Einsatz von GRC² für den Regressionstest weiterer Standard-Softwareprodukte im Bankensektor. In gleicher Weise kann GRC² Regressiontest zum Test von Individualsoftware verwendet werden. Einzige Voraussetzung ist das Vorliegen der Vergleichsdaten in Datenbanken oder in Form von csv-Dateien.
+Es können zudem beliebige Datenbanksysteme (z.B. Oracle, DB2, MySQL, HSQLDB) in beliebiger Zahl in die GRC² Abweichungsanalyse eingebunden werden werden.</description>
+    </item>
+    
+    <item>
+      <title>Select_16</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_16/</link>
+      <pubDate>Fri, 06 May 2022 14:16:52 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_16/</guid>
+      <description>Ja, soweit die Parametrisierung der Meldewesen-Software Datenbank-gespeichert (oder als csv-Datei) vorliegt, kann auch die gesamte Parametrierung der Meldesoftware auf Abweichungen geprüft werden.</description>
+    </item>
+    
+    <item>
+      <title>Select_15</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_15/</link>
+      <pubDate>Fri, 06 May 2022 14:16:48 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_15/</guid>
+      <description>Ja, Validierungsregeln können unter GRC² in die Abweichungsanalyse einbezogen werden. Wir ermöglichen mit GRC² hierbei sowohl Abgleiche der Validierungsregeln zwischen verschiedenen Versionen der Meldesoftware, als auch Abweichungsanalysen versus der Validierungsregeln wie seitens der Aufsicht veröffentlich.</description>
+    </item>
+    
+    <item>
+      <title>Select_14</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_14/</link>
+      <pubDate>Fri, 06 May 2022 14:16:44 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_14/</guid>
+      <description>Ja. Die Allokationsbedingungen pro Formularposition werden durch GRC² standardmäßig abgeglichen und die Ergebnisse dieser Abweichungsanalyse im GRC²- Dashboard angezeigt.</description>
+    </item>
+    
+    <item>
+      <title>Select_13</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_13/</link>
+      <pubDate>Fri, 06 May 2022 14:16:41 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_13/</guid>
+      <description>Ja, der Anwender kann die GRC²-Testergebnisse offline analysieren und kommentieren (Excel-basiertes GRC² Frontend). Er muss hierzu weder in GRC² noch in der Meldewesen-Software angemeldet sein. Alle hierzu benötigten GRC²-Funktionen (Drill-Downs etc.) stehen offline zur Verfügung.</description>
+    </item>
+    
+    <item>
+      <title>Select_12</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_12/</link>
+      <pubDate>Fri, 06 May 2022 14:16:37 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_12/</guid>
+      <description>Ja, die Verarbeitungsergebnisse für die GRC² Abweichungsanalyse müssen nicht auf der gleichen Umgebung vorliegen. Es können somit Meldewesen-Verarbeitungsergebnisse aus verschiedenen Testumgebungen verglichen werden, als auch ist es möglich unmittelbar aus einer Testumgebung gegen Verarbeitungsergebnisse auf Produktion abzugleichen. Es muss für diesen Zweck kein Vergleichsbestand auf die Testumgebung übertragen (oder neu generiert) werden, sofern dieser bereits auf einer anderen bestehenden Umgebung vorliegt.</description>
+    </item>
+    
+    <item>
+      <title>Select_11</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_11/</link>
+      <pubDate>Fri, 06 May 2022 14:16:34 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_11/</guid>
+      <description>Ja. GRC² erkennt manuelle Änderungen. Die Handhabung manueller Änderung unter GRC² ist konfigurierbar. Manuelle Änderungen können wenn gewünscht per GRC²-Konfiguration aus dem Abgleich ausgeschlossen werden und sind dann im Testergebnis nicht enthalten.</description>
+    </item>
+    
+    <item>
+      <title>Select_10</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_10/</link>
+      <pubDate>Fri, 06 May 2022 14:16:30 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_10/</guid>
+      <description>Ja, Ausschlüsse sind vordefinierbar. Ausschlüsse können zudem selektiv pro Iteration ausgewählt werden.
+Dies ist insbesondere wünschenswert, wenn bestehende bekannte Abweichungen im Testergebnis nicht relevant sind.</description>
+    </item>
+    
+    <item>
+      <title>Select_9</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_9/</link>
+      <pubDate>Fri, 06 May 2022 14:16:24 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_9/</guid>
+      <description>Ja, GRC² bietet die Option zum Abgleich gegen erwartete Ergebnisse (Soll-Ergebnisse). Die Soll-Ergebnisse müssen hierzu in der Datenbank oder als csv-Format vorliegen.</description>
+    </item>
+    
+    <item>
+      <title>Select_8</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_8/</link>
+      <pubDate>Fri, 06 May 2022 14:16:20 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_8/</guid>
+      <description>Kommentare zu den Abweichungen können pro Zelle vom Anwender erfasst werden. GRC² stellt hierzu ein Excel-basiertes Frontend zur Verfügung. Der GRC²-Benutzer benötigt somit keinen Zugriff auf die Meldewesen-Software (weder zum Start eines GRC²-Testaufs noch zur Analyse der Testergegbnisse).
+Einmal vom Anwender erfasste Kommentare werden als Eingangsstatus in nachfolgende Testiteration eines GRC²-Testprojekts übernommen (Kommentare müssen somit nicht wiederholt für jede Testiteration erfasst werden).</description>
+    </item>
+    
+    <item>
+      <title>Select_7</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_7/</link>
+      <pubDate>Fri, 06 May 2022 14:16:15 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_7/</guid>
+      <description>Ja, der Testgegenstand kann unter GRC² völlig flexibel definiert werden (von einer kompletten Meldungen des Institus bis zur Einschränkung der Abweichungsanalyse auf ein einzelnes Melde-Formular).</description>
+    </item>
+    
+    <item>
+      <title>Select_6</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_6/</link>
+      <pubDate>Fri, 06 May 2022 14:15:59 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_6/</guid>
+      <description>Ja, in GRC² können Testprojekte als auch Testiterationen angelegt und verwaltet werden (klassische Funktion eines Testmanagement-Tools).
+Pro angelegtem Projekt -beispielsweise einem Meldewesen-Releasewechsel- kann in mehreren Iterationen getestet werden.
+Die Testergebnisse werden in GRC² pro Iteration dokumentiert. Die dokumentierten Analyse-Ergebnisse nach Auswertung einer Test-Iteration (also die vom Nutzer erfassten Kommentare zur Abweichungsursache) werden als Eingangsstatus in Folge-Iterationen übernommen. Analyse-Ergebnisse müssen somit nur einmal erfasst werden (nicht pro Iteration).</description>
+    </item>
+    
+    <item>
+      <title>Select_4</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_4/</link>
+      <pubDate>Fri, 06 May 2022 10:42:21 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_4/</guid>
+      <description>Ja, GRC² ermöglicht den schrittweisen Drill-Down aus dem GRC² Dashboard (Teststatus gesamthaft) bis auf Meldebereichs-Ebene, Formular-Ebene und weiter bis auf Einzelgeschäfts-Ebene. Der Drill-Down erfolgt jeweils per Mausklick auf eine Abweichung. Die Abweichungen können durch den Anwender somit unmittelbar in GRC² bis auf Ebene der verursachenden Einzelgeschäfte analysiert werden. Die Analyseergebnisse – beispielsweise Betragshöhe der erläuterten Abweichungen sowie Kommentare zur Abweichungsursache – werden dabei vom Anwender unmittelbar in GRC² dokumentiert.</description>
+    </item>
+    
+    <item>
+      <title>Select_5</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_5/</link>
+      <pubDate>Fri, 06 May 2022 10:42:21 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_5/</guid>
+      <description>GRC² Testläufe können sowohl Batch-basiert ausgeführt als auch Nutzer-seitig gestartet werden. In der Praxis werden regelmäßig beide Optionen in einem Testprojekt verwendet (beispielsweise, wenn nach einem Batch-basiertem GRC²-Testlauf durch den Anwender ein Nachtest für ein einzelnes Formular gewünscht ist). Anwenderseitig sind nach Teststart keine weiteren Aktivitäten notwendig. Die GRC² Testergebnisse werden vollautomatisch bereitgestellt.</description>
+    </item>
+    
+    <item>
+      <title>Select_3</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_3/</link>
+      <pubDate>Fri, 06 May 2022 10:42:17 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_3/</guid>
+      <description>GRC² zeigt das Ergebnis eines Testlaufs gesamthaft in Form des GRC²-Dashboards.
+Die Darstellung im GRC²-Dashboard kann individuell konfiguriert werden und folgt im Standardfall der Struktur des Instituts-individuellen Meldebaums.
+Aus dem GRC²-Dashboard kann durch den Anwender mittels Mausklick schrittweise bis auf Einzelgeschäfts-Ebene navigiert werden (Drill-Down).
+Von GRC² identifizierte Abweichungen können somit ausgehend vom Dashboard schrittweise bis zur notwendigen Detaillierung nachvollzogen werden:
+ GRC² Dashboard (Testergebnis gesamthaft) Testergebnis Meldebereichs-Ebene Testergebnis Formular-Ebene Abweichungen auf Einzelgeschäfts-Ebene (Einzelgeschäfte, die ggf.</description>
+    </item>
+    
+    <item>
+      <title>Select_2</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_2/</link>
+      <pubDate>Fri, 06 May 2022 10:42:11 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_2/</guid>
+      <description>Mittels GRC² Regressiontest wird vollständige Testabdeckung erreicht. Es werden ohne Ausnahme alle Meldungen in den Test einbezogen.
+Das Ergebnis eines Testlaufs wird analog Aufbau Ihres individuellen Meldebaums im GRC²-Dashboard dargestellt und kann vom Anwender per Drill-Down bis auf Einzelgeschäfts-Ebene analysiert werden.
+Darstellungsebenen der GRC²-Testergebnisse:
+ GRC² Dashboard (Testergebnis-Dashboard) Meldebereichs-Ebene Formular-Ebene Einzelgeschäfts-Ebene  </description>
+    </item>
+    
+    <item>
+      <title>Select_1</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_1/</link>
+      <pubDate>Fri, 06 May 2022 10:40:10 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_1/</guid>
+      <description>Testansatz von GRC²-Regressiontest ist die automatisierte Abweichungsanalyse zwischen zwei Meldeverarbeitungen bei vollständiger Testabdeckung.
+GRC² vergleicht somit den Ist-Status nach Meldeverarbeitung versus einem vorgegebenem Soll-Ergebnis für diese Verabeitung.
+Als Testgegenstand können unter GRC² definiert werden (Beispiele): Zellwerte von Meldeformularen (Standard-Konfiguration), Allokationsregeln (Standard-Konfiguration) sowie darüber hinausgehend Validierungsregeln und die Inhalte generierter XBRL-Formate.
+GRC² Regressiontest wird schwerpunktmäßig für den Regressionstest neuer Releases der eingesetzten Meldewesen-Software eingesetzt.
+Weitere Verwendungszwecke sind unter anderem fachliche Stichtagsvergleiche sowie Tests nach Änderungen an Meldewesen-Eingangsschnittstellen.</description>
+    </item>
+    
+    <item>
+      <title>GRC² Regressiontest (Fragen &amp; Antworten)</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/grc2-fragen/</link>
+      <pubDate>Fri, 06 May 2022 10:27:10 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/grc2-fragen/</guid>
+      <description>(Wenn Sie mit Ihrem Mobiltelefon eine Webseite öffnen, drücken Sie lange auf das Textfeld, um die Antwort zu erhalten.)</description>
+    </item>
+    
+    <item>
+      <title>Consulting</title>
+      <link>https://ssmiles11.github.io/posts/co_main/</link>
+      <pubDate>Thu, 05 May 2022 14:03:41 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/posts/co_main/</guid>
+      <description>GridCon unterstützt Kreditinstitute und Versicherungen seit dem Jahr 2004 in technischen und fachlichen Fragestellungen. Wir verbinden branchenspezifisches Wissen mit IT-Kenntnissen und Organisationskompetenz.</description>
+    </item>
+    
+    <item>
+      <title>Solutions</title>
+      <link>https://ssmiles11.github.io/posts/so_main/</link>
+      <pubDate>Wed, 04 May 2022 14:03:50 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/posts/so_main/</guid>
+      <description>GridCon ist Hersteller der Meldewesen-Produktpalette GRC² (Grid Reporting &amp;amp; Compliance Center). Die in ihrer Art einzigartige Software steht für Qualitätssicherung und Automatisierung im regulatorischen Reporting der Banken und Versicherungen.</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://ssmiles11.github.io/kontakt/kontakt/</link>
+      <pubDate>Wed, 04 May 2022 13:49:01 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/kontakt/kontakt/</guid>
+      <description>Vielen Dank für den Besuch unserer Website. Wenn Sie noch Fragen zu unserem Angebot haben oder weiterführende Informationen wünschen, füllen Sie einfach unten stehendes Formular aus und senden Sie es an uns. Selbstverständlich können Sie uns auch per E-Mail an GridCon@GridCon.de kontaktieren. Sie erhalten in jedem Fall kurzfristig eine Antwort von uns.
+GridCon Consulting GmbH
+Pfarrer-Perabo-Platz 7
+60326 Frankfurt am Main
+Telefon +49 69 87001545
+E-Mail GridCon@GridCon.de
+www.gridcon.de</description>
+    </item>
+    
+    <item>
+      <title>Datenschutz</title>
+      <link>https://ssmiles11.github.io/impressum/datenschutz/</link>
+      <pubDate>Wed, 04 May 2022 12:01:30 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/impressum/datenschutz/</guid>
+      <description>Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies soweit möglich stets auf freiwilliger Basis. Die Nutzung der Angebote und Dienste ist, soweit möglich, stets ohne Angabe personenbezogener Daten möglich.
+Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://ssmiles11.github.io/posts/se_main/</link>
+      <pubDate>Tue, 03 May 2022 14:04:00 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/posts/se_main/</guid>
+      <description>Das aufsichtsrechtliche Meldewesen stellt einen beträchtlichen Kostenblock für Banken und Finanzinstitute dar. In enger Abstimmung mit unseren Kunden bieten wir Ihnen definierte Leistungspakete zur Unterstützung aller operativen Leistungen im Meldewesen.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ssmiles11.github.io/impressum/urheberrecht/</link>
+      <pubDate>Tue, 03 May 2022 12:01:49 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/impressum/urheberrecht/</guid>
+      <description>Die Betreiber der Seiten sind bemüht, stets die Urheberrechte anderer zu beachten bzw. auf selbst erstellte sowie lizenzfreie Werke zurückzugreifen.
+Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Beiträge Dritter sind als solche gekennzeichnet. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.</description>
+    </item>
+    
+    <item>
+      <title>Haftung</title>
+      <link>https://ssmiles11.github.io/impressum/haftung/</link>
+      <pubDate>Mon, 02 May 2022 12:02:10 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/impressum/haftung/</guid>
+      <description>Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.
+Als Diensteanbieter sind wir gemäß §6 Abs.1 MDStV und §8 Abs.1 TDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Diensteanbieter sind jedoch nicht verpflichtet, die von ihnen übermittelten oder gespeicherten fremden Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ssmiles11.github.io/impressum/haftung_fuer_links/</link>
+      <pubDate>Sun, 01 May 2022 12:02:25 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/impressum/haftung_fuer_links/</guid>
+      <description>Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar.</description>
+    </item>
+    
+    <item>
+      <title>Weiterentwicklung</title>
+      <link>https://ssmiles11.github.io/karriere/weiterentwicklung/</link>
+      <pubDate>Wed, 27 Apr 2022 14:51:54 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/karriere/weiterentwicklung/</guid>
+      <description>Wir entwickeln uns, wenn Sie sich entwickeln. Wir investieren daher in unsere Mitarbeiter und erwarten von unseren Beratern den Willen zum persönlichen Wachstum. Die Kultur eines regen Know-How-Austausches und die Qualifizierungsmaßnahmen der GridCon sind die Wegbereiter dazu.
+Unser klar strukturiertes Karrierestufen-Modell und nachvollziehbare Rollendefinitionen bieten den Rahmen für engagierte Mitarbeiter, um sich optimal zu entwickeln. Als Consultant sind Sie mit verschiedenen Beraterkollegen in unterschiedlichsten Branchen und Themengebieten tätig.
+Umso wichtiger ist es uns, dass Ihre persönliche Karriereentwicklung projektübergreifend gefördert wird.</description>
+    </item>
+    
+    <item>
+      <title>Karrierestufen</title>
+      <link>https://ssmiles11.github.io/karriere/karrierestufen/</link>
+      <pubDate>Wed, 27 Apr 2022 14:51:08 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/karriere/karrierestufen/</guid>
+      <description>GridCon kennt fünf Karrierestufen, die sich, basierend auf branchenüblichen Rahmenparametern, maßgeblich am Gegenwert für unsere Kunden orientieren.
+  Consultant
+  Senior Consultant
+  Principal Consultant
+  Managing Consultant
+  Partner Diese Karrierestufen bestimmen:
+  welches Gehalt Sie erhalten können und
+  welche Rolle(n) oder Hierarchiestufe(n) Sie bei GridCon wahrnehmen können
+  Die fachliche Karriere Anders als bei den Karrierestufen definiert sich eine Rolle in der fachlichen Ausrichtung einzig durch die Aufgaben, die wir für unsere Kunden (in einem Projekt) wahrnehmen.</description>
+    </item>
+    
+    <item>
+      <title>Einstiegsmöglichkeiten</title>
+      <link>https://ssmiles11.github.io/karriere/einstiegsmoeglichkeiten/</link>
+      <pubDate>Wed, 27 Apr 2022 14:49:49 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/karriere/einstiegsmoeglichkeiten/</guid>
+      <description>Während des Studiums  Studierenden bieten wir die Möglichkeit, im Rahmen eines Praktikums Erfahrungen in spannenden Projekten zu sammeln und/oder uns studienbegleitend durch studentische Mitarbeit mit flexiblen Arbeitszeiten und Aufgaben in unseren Competence Centern zu unterstützen. Mit einer praxisbezogenen Studienabschlussarbeit können Sie Praxis und Theorie miteinander verbinden.
+Studentische Mitarbeit Unabhängig von der Semesteranzahl stellen wir laufend studentische Mitarbeiter/innen ein. Sie unterstützen unsere Beraterteams und haben nach der Einarbeitungsphase die Möglichkeit, aktiv in unseren Projekten eingesetzt zu werden und so die Beratungspraxis kennen zu lernen.</description>
+    </item>
+    
+    <item>
+      <title>Warum Gridcon</title>
+      <link>https://ssmiles11.github.io/karriere/warum-gridcon/</link>
+      <pubDate>Wed, 27 Apr 2022 14:49:14 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/karriere/warum-gridcon/</guid>
+      <description>GridCon gehört zu den erfolgreichsten Beratungsunternehmen der Finanzwirtschaft.
+Die hohen Erwartungen unserer Kunden zu erfüllen und stets ein Vorreiter bei der Umsetzung neuer Ideen zu sein – darin sehen wir unsere Herausforderung.
+Ob Sie bereits Berufserfahrung vorweisen können, an der Schwelle zum Berufseinstieg oder noch mitten in Ihrem Studium stehen – wir wollen uns mit Ihnen dieser Herausforderung stellen.
+Die beste Fachkompetenz ist nur die Hälfte wert, wenn die „Chemie“ nicht stimmt, und zwar in unseren Teams genauso wie in der Zusammenarbeit mit unseren Kunden.</description>
+    </item>
+    
+    <item>
+      <title>Technischer Redakteur (m/w)</title>
+      <link>https://ssmiles11.github.io/karriere/stellenangebote/technischer-redakteur/</link>
+      <pubDate>Wed, 27 Apr 2022 14:48:28 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/karriere/stellenangebote/technischer-redakteur/</guid>
+      <description>GridCon ist ein branchenunabhängiges IT-Dienstleistungsunternehmen, welches sich vorrangig auf die Entwicklung und Vermarktung von Softwareprodukten spezialisiert hat. Die Tätigkeiten umfassen den gesamten Software-Lebenszyklus von der Anforderungsanalyse über die Konzeption bis hin zum Test und den Betrieb. Effiziente und innovative Softwarelösungen bilden unsere Kernkompetenzen. Darüber hinaus unterstützen wir unsere Kunden vor Ort bei Einführung, Erweiterung und Wartung von Softwaresystemen.
+Zur Verstärkung unseres kompetenten und hochmotivierten IT-Teams am Standort Frankfurt am Main suchen wir eine/n</description>
+    </item>
+    
+    <item>
+      <title>Systemadministrator (m/w)</title>
+      <link>https://ssmiles11.github.io/karriere/stellenangebote/system-administrator/</link>
+      <pubDate>Wed, 27 Apr 2022 14:47:29 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/karriere/stellenangebote/system-administrator/</guid>
+      <description>GridCon ist ein branchenunabhängiges IT-Dienstleistungsunternehmen, welches sich vorrangig auf die Entwicklung und Vermarktung von Softwareprodukten spezialisiert hat. Die Tätigkeiten umfassen den gesamten Software-Lebenszyklus von der Anforderungsanalyse über die Konzeption bis hin zum Test und den Betrieb. Effiziente und innovative Softwarelösungen bilden unsere Kernkompetenzen. Darüber hinaus unterstützen wir unsere Kunden vor Ort bei der Einführung, Erweiterung und Wartung von Softwaresystemen.
+Zur Verstärkung unseres kompetenten und hochmotivierten IT-Teams am Standort Frankfurt am Main suchen wir eine/n</description>
+    </item>
+    
+    <item>
+      <title>Junior Software Entwickler (m/w)</title>
+      <link>https://ssmiles11.github.io/karriere/stellenangebote/junior-software-entwickler/</link>
+      <pubDate>Wed, 27 Apr 2022 14:46:37 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/karriere/stellenangebote/junior-software-entwickler/</guid>
+      <description>GridCon ist ein branchenunabhängiges IT-Dienstleistungsunternehmen, welches sich vorrangig auf die Entwicklung und Vermarktung von Softwareprodukten spezialisiert hat. Unsere Tätigkeiten umfassen den gesamten Software-Lebenszyklus von der Anforderungsanalyse über die Konzeption bis hin zum Test und Betrieb. Effiziente und innovative Softwarelösungen bilden unsere Kernkompetenzen. Darüber hinaus unterstützen wir unsere Kunden vor Ort bei der Einführung, Erweiterung und Wartung von Softwaresystemen.
+Zur Verstärkung unseres kompetenten und hochmotivierten IT-Teams am Standort Frankfurt am Main suchen wir eine/n</description>
+    </item>
+    
+    <item>
+      <title>Software-Entwickler (m/w)</title>
+      <link>https://ssmiles11.github.io/karriere/stellenangebote/software-entwickler/</link>
+      <pubDate>Wed, 27 Apr 2022 14:45:52 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/karriere/stellenangebote/software-entwickler/</guid>
+      <description>GridCon ist ein branchenunabhängiges IT-Dienstleistungsunternehmen, welches sich vorrangig auf die Entwicklung und Vermarktung von Softwareprodukten spezialisiert hat. Die Tätigkeiten umfassen den gesamten Software-Lebenszyklus von der Anforderungsanalyse über die Konzeption bis hin zum Test und den Betrieb. Effiziente und innovative Softwarelösungen bilden unsere Kernkompetenzen. Darüber hinaus unterstützen wir unsere Kunden vor Ort bei der Einführung, Erweiterung und Wartung von Softwaresystemen.
+Zur Verstärkung unseres kompetenten und hochmotivierten IT-Teams am Standort Frankfurt am Main suchen wir eine/n</description>
+    </item>
+    
+    <item>
+      <title>Software-Architekt (m/w)</title>
+      <link>https://ssmiles11.github.io/karriere/stellenangebote/software-architekt/</link>
+      <pubDate>Wed, 27 Apr 2022 14:44:55 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/karriere/stellenangebote/software-architekt/</guid>
+      <description>GridCon ist ein branchenunabhängiges IT-Dienstleistungsunternehmen, welches sich vorrangig auf die Entwicklung und Vermarktung von Softwareprodukten spezialisiert hat. Die Tätigkeiten umfassen den gesamten Software-Lebenszyklus von der Anforderungsanalyse über die Konzeption bis hin zum Test und den Betrieb. Effiziente und innovative Softwarelösungen bilden unsere Kernkompetenzen. Darüber hinaus unterstützen wir unsere Kunden vor Ort bei der Einführung, Erweiterung und Wartung von Softwaresystemen.
+Zur Verstärkung unseres kompetenten und hochmotivierten IT-Teams am Standort Frankfurt am Main suchen wir eine/n</description>
+    </item>
+    
+    <item>
+      <title>Testmanager Meldewesen (m/w)</title>
+      <link>https://ssmiles11.github.io/karriere/stellenangebote/testmanager-2/</link>
+      <pubDate>Wed, 27 Apr 2022 14:43:51 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/karriere/stellenangebote/testmanager-2/</guid>
+      <description>GridCon unterstützt Kreditinstitute und Versicherungen seit dem Jahr 2004 in technischen und fachlichen Fragestellungen. Wir verbinden branchenspezifisches Wissen mit IT-Kenntnissen und Organisationskompetenz. GridCon steht für die erfolgreiche Durchführung von Projekten mit aufsichtsrechtlichem Fokus, die Erstellung individueller Anwendungssysteme sowie umfangreiche Automatisierungslösungen zur Abbildung regulatorischer Anforderungen in der Finanzwirtschaft.
+Zu unseren Kunden gehören die führenden Finanzinstitute auf nationaler und internationaler Ebene.
+Zur Verstärkung unseres motivierten Berater-Teams am Standort Frankfurt am Main suchen wir eine/n</description>
+    </item>
+    
+    <item>
+      <title>Meldewesen-Berater (m/w)</title>
+      <link>https://ssmiles11.github.io/karriere/stellenangebote/meldewesen-berater/</link>
+      <pubDate>Wed, 27 Apr 2022 14:42:42 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/karriere/stellenangebote/meldewesen-berater/</guid>
+      <description>GridCon unterstützt Kreditinstitute und Versicherungen seit dem Jahr 2004 in technischen und fachlichen Fragestellungen. Wir verbinden branchenspezifisches Wissen mit IT-Kenntnissen und Organisationskompetenz. GridCon steht für die erfolgreiche Durchführung von Projekten mit aufsichtsrechtlichem Fokus, die Erstellung individueller Anwendungssysteme sowie umfangreiche Automatisierungslösungen zur Abbildung regulatorischer Anforderungen in der Finanzwirtschaft. Zu unseren Kunden gehören die führenden Finanzinstitute auf nationaler und internationaler Ebene.
+Zur Verstärkung unseres motivierten Berater-Teams am Standort Frankfurt am Main suchen wir eine/n</description>
+    </item>
+    
+    <item>
+      <title>Stellenangebote</title>
+      <link>https://ssmiles11.github.io/karriere/stellenangebote/stellenangebote/</link>
+      <pubDate>Wed, 27 Apr 2022 14:33:44 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/karriere/stellenangebote/stellenangebote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solutions</title>
+      <link>https://ssmiles11.github.io/solutions/solutions/</link>
+      <pubDate>Wed, 27 Apr 2022 14:29:26 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/solutions/</guid>
+      <description>Unsere Produktpalette GRC² (Grid Reporting &amp;amp; Compliance Center) wurde gezielt für die Anforderungen des regulatorischen Reportings entwickelt und bietet umfassende Test-, Report- und Prozess-Automatisierung im Meldewesen.
+GRC² sowie die erhältlichen Zusatzmodule ermöglichen massive Effizienzsteigerungen im Regressionstest und Management-Reporting sowie in der operativen Ausführung des Meldewesens.</description>
+    </item>
+    
+    <item>
+      <title>Karriere</title>
+      <link>https://ssmiles11.github.io/karriere/karriere/</link>
+      <pubDate>Wed, 27 Apr 2022 14:27:47 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/karriere/karriere/</guid>
+      <description>Wir wollen bei Ihnen Veränderungsprozesse auslösen – daher gehört es bei unserer Arbeit dazu, Veränderungen einzuleiten, quer zu denken und kreative Fähigkeiten einzusetzen.
+Mitarbeiter, die bei uns einsteigen, sollten deshalb nicht nur Spezialistenwissen und Branchenkenntnisse mitbringen, sondern auch die Fähigkeit und den Willen, gemeinsam mit anderen begeistert Ideen zu verfolgen und ständig dazuzulernen.
+Für uns hat unternehmerisches Handeln nichts mit dem „eisernen Besen“ zu tun, Know-How-Führerschaft auf seinem Arbeitsgebiet nichts mit Beratungsleistung am Fließband.</description>
+    </item>
+    
+    <item>
+      <title>Technical Support</title>
+      <link>https://ssmiles11.github.io/services/technical-support/</link>
+      <pubDate>Wed, 27 Apr 2022 14:26:02 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/services/technical-support/</guid>
+      <description>Wir unterstützen und übernehmen bei Bedarf alle Tätigkeiten im Rahmen der technischen Betreuung der Meldewesensysteme:
+  Vorbereitung und Umsetzung von Releasewechseln des Meldesystems (Installation, Konfiguration und Test von System-Updates)
+  Technische Konzeption und Implementierung von Schnittstellen
+  Export und Import von Daten zur Weiterverarbeitung an andere Systeme
+  Konzeption, Erweiterung, Implementierung und Einbindung von Vorverarbeitungen
+  Erstellung und Umsetzung von Jobketten (Batch/ Skripting)
+  Erarbeitung und Umsetzung von Lösungen für Monitoring, Wartung, Administration sowie Backup und Recovery der Meldewesensysteme</description>
+    </item>
+    
+    <item>
+      <title>Regulatory Impact (Meldewesen-Service)</title>
+      <link>https://ssmiles11.github.io/services/regulatory-impact/</link>
+      <pubDate>Wed, 27 Apr 2022 14:24:23 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/services/regulatory-impact/</guid>
+      <description>Mit unserem Meldewesen-Service „Regulatory Impact“ übernehmen wir als definiertes Leistungspaket im Auftrag unserer Kunden:
+  Identifikation neuer und geänderter regulatorischer Meldeanforderungen auf nationaler und internationaler Ebene (regulatorisches Screening)
+  regelmäßige Information über neue Anforderungen durch Newsletter in regelmäßigen Zeitabständen sowie unmittelbar bei Auftreten neuer Meldeanforderungen
+  fachliche Beurteilung und Auswirkungsanalyse bezogen auf Ihr Finanzinstitut
+  auf Anforderung: Diskussionsführung mit BaFin und Bundesbank
+  Übergabe, Präsentation und Diskussion der Auswirkungsanalyse</description>
+    </item>
+    
+    <item>
+      <title>Meldewesen OnDemand (Meldewesen-Service)</title>
+      <link>https://ssmiles11.github.io/services/meldewesen-on-demand/</link>
+      <pubDate>Wed, 27 Apr 2022 14:22:53 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/services/meldewesen-on-demand/</guid>
+      <description>Mit unserem Leistungsangebot „Meldewesen OnDemand“ bieten wir unseren Kunden die operative Übernahme exakt definierter Aufgaben innerhalb des kundenindividuellen Meldewesens auf Basis von Service Level Agreements (SLA). Wir übernehmen hierbei fachliche als auch technische Leistungen im Auftrag unserer Kunden:
+  Meldeerstellung – Wir übernehmen die Verantwortung für die Vorbereitung, Erstellung, Plausibilisierung und Abgabe von vereinbarten Meldungen
+  Technische Betreuung – Sie übertragen uns die laufenden Tätigkeiten zur Administration, Operating, Update und Qualitätssicherung der Meldesysteme</description>
+    </item>
+    
+    <item>
+      <title>Regression Testing (Meldewesen-Service)</title>
+      <link>https://ssmiles11.github.io/services/regression-testing/</link>
+      <pubDate>Wed, 27 Apr 2022 14:21:31 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/services/regression-testing/</guid>
+      <description>Regresssionstests im Meldewesen werden in kurzen Zeitabständen notwendig – sei es aufgrund geänderter Regulatorien, neuer Software-Releases der Hersteller oder Bank-interner Schnittstellen-Änderungen. Es stellt sich hier nicht die Frage ob, sondern in welchen Zeitabständen unterjährige Regressionstests seitens der Finanzinstitute einzuplanen sind. Zur Frequenz notwendiger Regressionstests im Meldewesen liegen intern meist gesicherte langährige Erfahrungen vor.
+Mit unserem Meldewesen-Service „Regression-Testing“ bieten wir Ihnen die Durchführung einer individuell vereinbarten Anzahl von Regressionstests pro Jahr zu einem vorab definierten Festpreis.</description>
+    </item>
+    
+    <item>
+      <title>GridCon Meldewesen-Services</title>
+      <link>https://ssmiles11.github.io/services/services/</link>
+      <pubDate>Wed, 27 Apr 2022 14:19:55 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/services/services/</guid>
+      <description>Aufsichtsnormen nationaler, europäischer und internationaler Ebene stellen das Meldewesen der Finanzinstitute vor zunehmend größere Herausforderungen. Die zugrunde liegenden Regelwerke werden zunehmend komplexer und weisen untereinander steigende Verflechtungen auf.
+Aufgrund kurzer Änderungszyklen der regulatorischen Vorgaben erhöht sich die Frequenz notwendiger Testaktivitäten im Meldewesen. Die kontinuierlich notwendige Auswirkungsanalyse für neue Regularien verursacht massive Belastungen in den verantwortlichen Fachabteilungen.
+Das aufsichtsrechtliche Meldewesen stellt damit einen beträchtlichen Kostenblock für Banken und Finanzinstitute dar.
+Das an sich regulatorisch getriebene Meldewesen hat sich aufgrund notwendiger Kostenreduktion sowie strategischer Integration in angrenzende bankfachliche Prozesse des Risk-Controlling, Management-Reporting, Treasury und Finance mittlerweile zum Wettbewerbsfaktor im Bankensektor entwickelt.</description>
+    </item>
+    
+    <item>
+      <title>GRC²  DataImporter</title>
+      <link>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-dataimporter/</link>
+      <pubDate>Wed, 27 Apr 2022 14:07:29 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-dataimporter/</guid>
+      <description>Import von Meldewesen-Datenbeständen aus einer CSV-Datei in eine Ziel-Datenbank
+  Gezielte Auswahl der zu importierenden Daten durch den Anwender
+  Automatisierte Ermittlung von Anzahl und Datentypen der zu importierenden Spalten mit Option zur Überprüfung und Anpassung durch den Anwender
+  Option zur Definition von SQL-Skripten, die vor bzw. nach dem Import auszuführen sind
+  Möglichkeit zur Speicherung der gesamten Parametrisierung eines Imports für die künftige Wiederverwendung (Konfiguration)</description>
+    </item>
+    
+    <item>
+      <title>GRC² DataExporter</title>
+      <link>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-dataexporter/</link>
+      <pubDate>Wed, 27 Apr 2022 14:05:33 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-dataexporter/</guid>
+      <description>  Export der Meldewesendaten aus einer Quell-Datenbank in eine CSV-Datei
+  Gezielte Auswahl der zu extrahierenden Felder durch den Anwender
+  Einstellungen zur Filterung der zu exportierenden Datensätze können hinterlegt werden
+  Option zur Definition von SQL-Skripten, die vor bzw. nach dem Export auszuführen sind
+  Möglichkeit zur Speicherung der gesamten Parametrisierung eines Exports für die künftige Wiederverwendung (Konfiguration)
+  </description>
+    </item>
+    
+    <item>
+      <title>GRC² DataMigrator</title>
+      <link>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-datamigrator/</link>
+      <pubDate>Wed, 27 Apr 2022 14:04:27 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-datamigrator/</guid>
+      <description>  Direkte selektive Übertragung von Daten aus einer Quell-Datenbank in eine Ziel-Datenbank
+  Optionen zur Hinterlegung von Filterbedingungen für die zu migrierenden Datensätze
+  Definition von SQL-Skripten zur Ausführung auf Quell- und Ziel-Datenbank vor und nach Migration
+  Möglichkeit zur Speicherung der Einstellungen für künftige Migrationen
+  </description>
+    </item>
+    
+    <item>
+      <title>GRC² GridValid</title>
+      <link>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-gridvalid/</link>
+      <pubDate>Wed, 27 Apr 2022 14:02:51 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-gridvalid/</guid>
+      <description>  Effiziente Durchführung von Formalprüfungen nach Vorgaben der Bundesbank
+  Implementierung Kunden-individueller Prüfungen und Validierungen für einzelne Meldebereiche oder Meldungsübergreifend
+  </description>
+    </item>
+    
+    <item>
+      <title>GRC² – GridSelect</title>
+      <link>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-gridselect/</link>
+      <pubDate>Wed, 27 Apr 2022 14:01:35 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-gridselect/</guid>
+      <description>Entlastung des Meldewesen-Systems und Performance-Optimierung bei Datenabfragen auf den Meldewesendatenbestand
+  Gezielte Vorselektion und Auslagerung von Daten, die für Reports auf Basis des Meldewesendatenbestands regelmäßig benötigt werden
+  Analyse der Datenströme innerhalb des Meldewesensystems und Bereitstellung häufig abgefragter Informationen in verdichteter Form in einer separaten Datenquelle
+  Selektives Lesen ausschließlich der Daten, die im Quellbestand seit der letzten Verarbeitung geändert wurden. Keine wiederholte vollständige Datenabfrage an die Quellsysteme</description>
+    </item>
+    
+    <item>
+      <title>GRC² GridReporting</title>
+      <link>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-gridreporting/</link>
+      <pubDate>Wed, 27 Apr 2022 13:59:59 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-gridreporting/</guid>
+      <description>Unser GRC²-Zusatzmodul „GridReporting“ bietet eine flexible Self Service Business Intelligence (SSBI) Lösung auf Basis des Meldewesen-Datenbestandes
+  Die Datenbestände des Meldewesens werden zur flexiblen Erstellung interner Managementreports sowie zur Erfüllung externer Reporting-Anforderungen genutzt
+  Die Reports werden dabei durch die Anwender selbständig definiert und erstellt
+  Auch komplexe Reporting-Anforderungen können ad-hoc beantwortet werden
+  Aufgrund unserer Kenntnis der Datenmodelle aller marktüblichen Meldewesensysteme stellen wir Ihnen bereits vordefinierte Abfragen in GridReporting bereit</description>
+    </item>
+    
+    <item>
+      <title>GRC² – GridAudit</title>
+      <link>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-gridaudit/</link>
+      <pubDate>Wed, 27 Apr 2022 13:58:24 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-gridaudit/</guid>
+      <description>  Hinweisgestützte Analyse und Identifikation von Abweichungen beim Datenabgleich im Rahmen von Releasewechseln der Meldewesensoftware
+  persistente Kennzeichnung einzelner Abweichungen mit eindeutigen IDs über mehrere Testreihen und Testiterationen
+  revisionssichere Dokumentation der Abweichungen. Gruppierungen und Klassifizierung von Abweichungen.
+  </description>
+    </item>
+    
+    <item>
+      <title>Zusatzmodule GRC²</title>
+      <link>https://ssmiles11.github.io/solutions/zusatzmodule/zusatzmodule/</link>
+      <pubDate>Wed, 27 Apr 2022 13:56:30 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/zusatzmodule/zusatzmodule/</guid>
+      <description>Die Funktionalität von GRC2 kann durch die Meldewesen-spezifische Zusatzmodule für die folgenden Zwecke umfassend erweitert werden:</description>
+    </item>
+    
+    <item>
+      <title>GRC² Ready To Run</title>
+      <link>https://ssmiles11.github.io/solutions/kernkomponenten/grc2-ready-to-run/</link>
+      <pubDate>Wed, 27 Apr 2022 13:50:17 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/kernkomponenten/grc2-ready-to-run/</guid>
+      <description>Wir stellen für GRC² Regressiontest als auch GRC² Management Reporting vorbereitete Module zur Verwendung unter einer Reihe von bankfachlichen Standardprodukten bereit.
+Die entsprechenden Schnittstellen und Anpassungen auf das jeweils Produkt-spezifische Datenmodell sind hier bereits vollständig implementiert.
+GRC² ist für diese Produkte „Ready to Run“ einsetzbar.
+Wir bieten Ihnen GRC² Ready to Run unter anderem für die folgenden Produkte:
+  ABACUS/DaVinci
+  ABACUS/Solvency II
+  BSM BAIS
+  avaloq Banking Suite (Modul-bezogen)</description>
+    </item>
+    
+    <item>
+      <title>GRC² Management Reporting</title>
+      <link>https://ssmiles11.github.io/solutions/kernkomponenten/grc2-management-reporting/</link>
+      <pubDate>Wed, 27 Apr 2022 13:49:16 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/kernkomponenten/grc2-management-reporting/</guid>
+      <description>Banken und Finanzinstitute haben zunehmend komplexe Anforderungen an die Erstellung von Datenauswertungen, Analysen sowie strategischer Planungen auf Grundlage der Datenbestände bankfachlicher Quellsysteme.
+Diese zugrundeliegenden Systeme – unter anderem Kernbank- und Meldewesen-Systeme – sind für diesen Zweck allerdings weder vorgesehen noch vorbereitet. Zweck dieser Systeme ist vielmehr die vollständige Umsetzung des operativen Bankgeschäfts unter vollständiger Sicherstellung notwendiger Verfügbarkeit und Performance. Der Versuch die benötigten Managementanalysen ohne Einsatz spezialisierter Software zu erstellen, erbringt daher meist nicht die gewünschten Ergebnisse und beinhaltet zudem das Risiko von Last- und Performance-Problemen der geschäftskritischen Banksysteme.</description>
+    </item>
+    
+    <item>
+      <title>GRC² Regressiontest</title>
+      <link>https://ssmiles11.github.io/solutions/kernkomponenten/grc2-regressiontest/</link>
+      <pubDate>Wed, 27 Apr 2022 13:47:04 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/kernkomponenten/grc2-regressiontest/</guid>
+      <description>Mittels GRC² Regressiontest bieten wir Ihnen die Möglichkeit zur vollständigen Automatisierung der regelmäßigen Regressionstests im regulatorischen Reporting.
+Die Notwendigkeit zur Duchführung von Regressionstests entsteht regelmäßig in vielen Bereichen der Finanzinstitute. Merkmal eines Regressionstests ist die Wiederholung von Prüfungen für an sich bereits erfolgreich getestete Funktionalität einer Software.
+Die Frequenz notwendiger Regressionstest im regulatorischen Meldewesen ist erfahrungsgemäß besonders hoch.
+Auslöser sind unter anderem:
+  neue oder geänderte regulatorische Anforderungen
+  Fehler-getrieben neue Software-Releases der Hersteller sowie</description>
+    </item>
+    
+    <item>
+      <title>Kernkomponenten GRC²</title>
+      <link>https://ssmiles11.github.io/solutions/kernkomponenten/kernkomponenten/</link>
+      <pubDate>Tue, 26 Apr 2022 13:45:32 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/kernkomponenten/kernkomponenten/</guid>
+      <description>Unsere Produktpalette GRC² (Grid Reporting &amp;amp; Compliance Center) wurde gezielt für die Anforderungen des regulatorischen Reportings entwickelt und bietet umfassende Test-, Report- und Prozess-Automatisierung im Meldewesen.
+GRC² sowie die erhältlichen Zusatzmodule ermöglichen massive Effizienzsteigerungen im Regressionstest und Management-Reporting sowie in der operativen Ausführung des Meldewesens.</description>
+    </item>
+    
+    <item>
+      <title>Solvency II Consulting</title>
+      <link>https://ssmiles11.github.io/consulting/solvency-ii-consulting/</link>
+      <pubDate>Tue, 26 Apr 2022 13:39:29 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/consulting/solvency-ii-consulting/</guid>
+      <description>Die Solvency II-Richtlinie umfasst die regulatorischen Anforderungen an Versicherungsunternehmen im europäischen Umfeld. Neben quantitativen und qualitativen Vorschriften zur Bewertung von Vermögenswerten und Verbindlichkeiten, den Kapitalanforderungen sowie Risikomanagement- und Compliance-Funktionen beinhaltet Solvency II detaillierte Regelungen zu Berichts- und Offenlegungspflichten.
+  Wir unterstützen Sie bei der Vorbereitung auf Solvency II und der Umsetzung der aufsichtsrechtlichen Vorgaben durch folgende Leistungen:
+  Umfassende Konfiguration und Anpassung der Parametrisierung des Solvency II Systems</description>
+    </item>
+    
+    <item>
+      <title>Datenmigration Im Meldewesen</title>
+      <link>https://ssmiles11.github.io/consulting/datenmigration-im-meldewesen/</link>
+      <pubDate>Tue, 26 Apr 2022 13:39:02 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/consulting/datenmigration-im-meldewesen/</guid>
+      <description>Unter Einsatz der GRC²-Zusatzmodule zur Datenmigration unterstützen wir unsere Kunden bei der Entwicklung und Umsetzung einer spezifischen Migrationsstrategie und ermöglichen einen reibungslosen Wechsel von alt nach neu.
+  Vollständige Datenübernahme – Wir sorgen für die Sicherung der sensiblen Meldewesendaten des Quell-Systems sowie deren Übertragung und Transformation in die Datenformate des Ziel-Systems
+  Optimierung der Datenqualität – Durch Analyse und Bereinigung der Datenbestände werden Datenredundanzen sowie fehlerhafte oder veraltete Datensätze vermieden</description>
+    </item>
+    
+    <item>
+      <title>Umfassende Unterstützung Ihrer Meldewesen-Änderungsprozesse</title>
+      <link>https://ssmiles11.github.io/consulting/meldewesen-aenderungsprozesse/</link>
+      <pubDate>Tue, 26 Apr 2022 13:38:34 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/consulting/meldewesen-aenderungsprozesse/</guid>
+      <description>Unsere erfahrenen Consultants übernehmen in Ihrem Auftrag alle Projekttätigkeiten im regulatorischen Meldewesen:
+  Kontinuierliches Screening gesetzlicher Änderungen
+  Auswirkungs-Analyse und Abbildung neuer oder geänderter regulatorischen Anforderungen auf Kunden-individuelle Gegebenheiten
+  Erstellung von Fach- und IT-Konzepten zur Umsetzung neuer bzw. geänderter regulatorischer Anforderungen
+  Implementierung von Schnittstellen-Änderungen sowie Analyse der Auswirkungen auf Vorsysteme
+  Durchführung manueller Tests (unter anderem im Rahmen von Release- und Schnittstellenwechseln des Meldesystems)</description>
+    </item>
+    
+    <item>
+      <title>Toolgestützte Reportinglösungen</title>
+      <link>https://ssmiles11.github.io/consulting/toolgestuetzte-reportingloesungen/</link>
+      <pubDate>Tue, 26 Apr 2022 13:38:11 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/consulting/toolgestuetzte-reportingloesungen/</guid>
+      <description>GRC²-Management Reporting bietet Ihnen eine flexible Self Service Business Intelligence (SSBI) Lösung auf Basis Ihres Meldewesen-Datenbestandes. Die Datenbestände des Meldewesens werden zur flexiblen Erstellung interner Managementreports sowie zur Erfüllung externer Reporting-Anforderungen genutzt. Die Reports werden dabei durch die Anwender selbständig definiert und erstellt. Auch komplexe Reporting-Anforderungen können ad-hoc erfüllt werden.
+Langwierige Analysen sowie die Erfassung und Aufbereitung von Daten entfallen. Auf Basis der Datenmodelle aller marktüblichen Meldewesensysteme stellen wir Ihnen bereits vordefinierte Abfragen in mit GridReporting bereit.</description>
+    </item>
+    
+    <item>
+      <title>Testautomatisierung Im Meldewesen</title>
+      <link>https://ssmiles11.github.io/consulting/testautomatisierung-im-meldewesen/</link>
+      <pubDate>Tue, 26 Apr 2022 13:24:33 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/consulting/testautomatisierung-im-meldewesen/</guid>
+      <description>Mit GRC² bieten wir unseren Kunden eine vollständig automatisierte Lösung zum Abgleich von Meldewesen-Datenbeständen. Durch den Einsatz von GRC² werden massive Zeitersparnisse beim kundenseitigen Test vor Einsatz neuer Meldewesen-Releases erzielt. Mit gleicher Funktionalität wird GRC² auch zum Test neuer Schnittstellen und für Stichtagsvergleiche eingesetzt. In allen Fällen erhält der Anwender eine vollständige Übersicht und Dokumentation sämtlicher durch GRC² identifizierten Abweichungen der Datenbestände. Die Analyseergebnisse zu diesen Abweichungen werden anschließend von den Fachabteilungsanwendern selbständig in GRC² erfasst.</description>
+    </item>
+    
+    <item>
+      <title>GridCon Beratungleistungen</title>
+      <link>https://ssmiles11.github.io/consulting/gridcon_beratungleistungen/</link>
+      <pubDate>Tue, 26 Apr 2022 10:15:40 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/consulting/gridcon_beratungleistungen/</guid>
+      <description>GridCon Consulting unterstützt fachlich und technisch bei der Abbildung regulatorischer Anforderungen. Wir begleiten Sie methodisch von der Strategie über die Analyse und Entwicklung, bis hin zur Projektumsetzung. Wir entwickeln kundenorientierte, individuell zugeschnittene Lösungen und setzen diese praxisorientiert sowie zeit- und kosteneffizient um.
+Unsere Beratungsleistungen sind zugeschnitten auf die Anforderungen des Finanzsektors im Rahmen der Umsetzung regulatorischer Meldevorgaben.
+Durch Einsatz der von uns entwickelten Softwarelösung GRC2 (Grid Reporting &amp;amp; Compliance Center) werden unsere umfangreichen Beratungsleistungen im Meldewesen optimal ergänzt.</description>
+    </item>
+    
+    <item>
+      <title>Wir unterstützen Sie im Meldewesen mit den folgenden Leistungen:</title>
+      <link>https://ssmiles11.github.io/consulting/wir_u_s_i_m_m_d_f_l/</link>
+      <pubDate>Tue, 26 Apr 2022 10:15:40 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/consulting/wir_u_s_i_m_m_d_f_l/</guid>
+      <description>  Identifikation und fachliche Beurteilung aufsichtsrechtlicher Anforderungen
+  Planung und Umsetzung individueller Meldeanforderungen
+  Umfassende Automatisierungslösungen im bankfachlichen Meldewesen auf Basis unserer Produktpalette GRC²
+  Reporting und Self Service BI auf Basis des Meldewesen-Datenbestands
+  Einführung neuer Produkte, Releases und Schnittstellen im Meldewesen
+  Spezialisten-Kenntnisse in allen Markt-relevanten Standard-Softwarelösungen im Meldewesen
+  Test-Consulting und Test-Automatisierung
+  </description>
+    </item>
+    
+    <item>
+      <title>Über GridCon</title>
+      <link>https://ssmiles11.github.io/unternehmen/ueber-gridcon/</link>
+      <pubDate>Thu, 21 Apr 2022 14:38:46 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/unternehmen/ueber-gridcon/</guid>
+      <description>GridCon unterstützt Kreditinstitute und Versicherungen seit dem Jahr 2004 in technischen und fachlichen Fragestellungen. Wir verbinden branchenspezifisches Wissen mit IT-Kenntnissen und Organisationskompetenz. GridCon steht für die Realisierung individueller Anwendungssysteme, die Implementierung von Standardprodukten sowie für umfangreiche Automatisierungslösungen zur Abbildung regulatorischer Anforderungen in der Finanzwirtschaft. Zu unseren Kunden gehören die führenden Finanzinstitute auf nationaler und internationaler Ebene.</description>
+    </item>
+    
+    <item>
+      <title>Firmenporträt</title>
+      <link>https://ssmiles11.github.io/unternehmen/firmenportraet/</link>
+      <pubDate>Wed, 20 Apr 2022 14:44:02 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/unternehmen/firmenportraet/</guid>
+      <description>Wir bieten vollumfängliche fachliche und technische Unterstützung in den Themen Meldewesen, Regulatory Compliance, Basel III/ CRD IV, Accounting (IFRS, HGB), Risikosteuerung, Geldwäsche sowie MaRisk in verschiedenen europäischen Ländern.
+Unsere Fokus-Themen sind das aufsichtsrechtliche Meldewesen, die Einhaltung regulatorischer Rahmenbedingungen sowie flexible Lösungen für Automatisierung und internes Reporting auf Basis von Meldewesen-Beständen im Finanzsektor. Darüber hinaus bilden Schnittstellen-Entwicklung sowie Test-Automatisierung im Meldewesen die Kernkompetenzen unseres Unternehmens.
+Wir unterstützen unsere Kunden ganzheitlich durch individuelle, strategische Beratungsleistungen zur Einhaltung gesetzlicher Vorgaben sowie intelligente, produktbasierte Entwicklungs- und Automatisierungslösungen.</description>
+    </item>
+    
+  </channel>
+</rss>

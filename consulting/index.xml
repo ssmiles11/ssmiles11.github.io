@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Consulting on GridCon Consulting GmbH</title>
+    <link>https://ssmiles11.github.io/consulting/</link>
+    <description>Recent content in Consulting on GridCon Consulting GmbH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Apr 2022 13:20:44 +0200</lastBuildDate><atom:link href="https://ssmiles11.github.io/consulting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solvency II Consulting</title>
+      <link>https://ssmiles11.github.io/consulting/solvency-ii-consulting/</link>
+      <pubDate>Tue, 26 Apr 2022 13:39:29 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/consulting/solvency-ii-consulting/</guid>
+      <description>Die Solvency II-Richtlinie umfasst die regulatorischen Anforderungen an Versicherungsunternehmen im europäischen Umfeld. Neben quantitativen und qualitativen Vorschriften zur Bewertung von Vermögenswerten und Verbindlichkeiten, den Kapitalanforderungen sowie Risikomanagement- und Compliance-Funktionen beinhaltet Solvency II detaillierte Regelungen zu Berichts- und Offenlegungspflichten.
+  Wir unterstützen Sie bei der Vorbereitung auf Solvency II und der Umsetzung der aufsichtsrechtlichen Vorgaben durch folgende Leistungen:
+  Umfassende Konfiguration und Anpassung der Parametrisierung des Solvency II Systems</description>
+    </item>
+    
+    <item>
+      <title>Datenmigration Im Meldewesen</title>
+      <link>https://ssmiles11.github.io/consulting/datenmigration-im-meldewesen/</link>
+      <pubDate>Tue, 26 Apr 2022 13:39:02 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/consulting/datenmigration-im-meldewesen/</guid>
+      <description>Unter Einsatz der GRC²-Zusatzmodule zur Datenmigration unterstützen wir unsere Kunden bei der Entwicklung und Umsetzung einer spezifischen Migrationsstrategie und ermöglichen einen reibungslosen Wechsel von alt nach neu.
+  Vollständige Datenübernahme – Wir sorgen für die Sicherung der sensiblen Meldewesendaten des Quell-Systems sowie deren Übertragung und Transformation in die Datenformate des Ziel-Systems
+  Optimierung der Datenqualität – Durch Analyse und Bereinigung der Datenbestände werden Datenredundanzen sowie fehlerhafte oder veraltete Datensätze vermieden</description>
+    </item>
+    
+    <item>
+      <title>Umfassende Unterstützung Ihrer Meldewesen-Änderungsprozesse</title>
+      <link>https://ssmiles11.github.io/consulting/meldewesen-aenderungsprozesse/</link>
+      <pubDate>Tue, 26 Apr 2022 13:38:34 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/consulting/meldewesen-aenderungsprozesse/</guid>
+      <description>Unsere erfahrenen Consultants übernehmen in Ihrem Auftrag alle Projekttätigkeiten im regulatorischen Meldewesen:
+  Kontinuierliches Screening gesetzlicher Änderungen
+  Auswirkungs-Analyse und Abbildung neuer oder geänderter regulatorischen Anforderungen auf Kunden-individuelle Gegebenheiten
+  Erstellung von Fach- und IT-Konzepten zur Umsetzung neuer bzw. geänderter regulatorischer Anforderungen
+  Implementierung von Schnittstellen-Änderungen sowie Analyse der Auswirkungen auf Vorsysteme
+  Durchführung manueller Tests (unter anderem im Rahmen von Release- und Schnittstellenwechseln des Meldesystems)</description>
+    </item>
+    
+    <item>
+      <title>Toolgestützte Reportinglösungen</title>
+      <link>https://ssmiles11.github.io/consulting/toolgestuetzte-reportingloesungen/</link>
+      <pubDate>Tue, 26 Apr 2022 13:38:11 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/consulting/toolgestuetzte-reportingloesungen/</guid>
+      <description>GRC²-Management Reporting bietet Ihnen eine flexible Self Service Business Intelligence (SSBI) Lösung auf Basis Ihres Meldewesen-Datenbestandes. Die Datenbestände des Meldewesens werden zur flexiblen Erstellung interner Managementreports sowie zur Erfüllung externer Reporting-Anforderungen genutzt. Die Reports werden dabei durch die Anwender selbständig definiert und erstellt. Auch komplexe Reporting-Anforderungen können ad-hoc erfüllt werden.
+Langwierige Analysen sowie die Erfassung und Aufbereitung von Daten entfallen. Auf Basis der Datenmodelle aller marktüblichen Meldewesensysteme stellen wir Ihnen bereits vordefinierte Abfragen in mit GridReporting bereit.</description>
+    </item>
+    
+    <item>
+      <title>Testautomatisierung Im Meldewesen</title>
+      <link>https://ssmiles11.github.io/consulting/testautomatisierung-im-meldewesen/</link>
+      <pubDate>Tue, 26 Apr 2022 13:24:33 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/consulting/testautomatisierung-im-meldewesen/</guid>
+      <description>Mit GRC² bieten wir unseren Kunden eine vollständig automatisierte Lösung zum Abgleich von Meldewesen-Datenbeständen. Durch den Einsatz von GRC² werden massive Zeitersparnisse beim kundenseitigen Test vor Einsatz neuer Meldewesen-Releases erzielt. Mit gleicher Funktionalität wird GRC² auch zum Test neuer Schnittstellen und für Stichtagsvergleiche eingesetzt. In allen Fällen erhält der Anwender eine vollständige Übersicht und Dokumentation sämtlicher durch GRC² identifizierten Abweichungen der Datenbestände. Die Analyseergebnisse zu diesen Abweichungen werden anschließend von den Fachabteilungsanwendern selbständig in GRC² erfasst.</description>
+    </item>
+    
+    <item>
+      <title>GridCon Beratungleistungen</title>
+      <link>https://ssmiles11.github.io/consulting/gridcon_beratungleistungen/</link>
+      <pubDate>Tue, 26 Apr 2022 10:15:40 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/consulting/gridcon_beratungleistungen/</guid>
+      <description>GridCon Consulting unterstützt fachlich und technisch bei der Abbildung regulatorischer Anforderungen. Wir begleiten Sie methodisch von der Strategie über die Analyse und Entwicklung, bis hin zur Projektumsetzung. Wir entwickeln kundenorientierte, individuell zugeschnittene Lösungen und setzen diese praxisorientiert sowie zeit- und kosteneffizient um.
+Unsere Beratungsleistungen sind zugeschnitten auf die Anforderungen des Finanzsektors im Rahmen der Umsetzung regulatorischer Meldevorgaben.
+Durch Einsatz der von uns entwickelten Softwarelösung GRC2 (Grid Reporting &amp;amp; Compliance Center) werden unsere umfangreichen Beratungsleistungen im Meldewesen optimal ergänzt.</description>
+    </item>
+    
+    <item>
+      <title>Wir unterstützen Sie im Meldewesen mit den folgenden Leistungen:</title>
+      <link>https://ssmiles11.github.io/consulting/wir_u_s_i_m_m_d_f_l/</link>
+      <pubDate>Tue, 26 Apr 2022 10:15:40 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/consulting/wir_u_s_i_m_m_d_f_l/</guid>
+      <description>  Identifikation und fachliche Beurteilung aufsichtsrechtlicher Anforderungen
+  Planung und Umsetzung individueller Meldeanforderungen
+  Umfassende Automatisierungslösungen im bankfachlichen Meldewesen auf Basis unserer Produktpalette GRC²
+  Reporting und Self Service BI auf Basis des Meldewesen-Datenbestands
+  Einführung neuer Produkte, Releases und Schnittstellen im Meldewesen
+  Spezialisten-Kenntnisse in allen Markt-relevanten Standard-Softwarelösungen im Meldewesen
+  Test-Consulting und Test-Automatisierung
+  </description>
+    </item>
+    
+  </channel>
+</rss>

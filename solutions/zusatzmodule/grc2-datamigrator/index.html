@@ -1,0 +1,952 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+  GRC² DataMigrator &ndash; GridCon Consulting GmbH
+  </title>
+  </head>
+  <body>
+    
+    <link rel="stylesheet" href="/css/header.css">
+
+<style>
+    div.buttonhidden {
+    display: none;
+}
+
+div.handyhidden {
+    display: block;
+}
+
+div.handylogo a {
+    float: left;
+    margin-left: 10%;
+}
+
+div.buttonhidden button {
+    margin:4% 0 3% 25%;
+    background-color: white;
+    border: 0;
+}
+
+@media screen and (max-width: 600px) {
+    div.buttonhidden {
+        display: block;
+        margin-bottom: 6%;
+    }
+
+    div.handyhidden {
+        display: none;
+        position: relative;
+        left: -10%;
+        font-size: 80%;
+    }
+
+    div.handylogo {
+        position: relative;
+        left: -5%;
+    }
+}
+</style>
+
+    <div class="handylogo">
+        <a href="/"><img src="/images/logo.png" width="200" height="58" ></a>
+    </div>
+    
+    <div class="buttonhidden">
+        <!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+
+        <style>
+          body {
+    background-color: #fff;
+
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+}
+
+ 
+#open {
+    background-color: chocolate;
+    border: none;
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    color: #fff;
+    outline: none;
+    cursor: pointer;
+    display: none;
+}
+
+#open:hover {
+    background-color: coral;
+}
+
+ 
+#hidden {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+    opacity: 0.3;
+    display: none;
+    z-index: 9998;
+}
+ 
+#box {
+    color: #fff;
+    width: 400px;
+    height: fit-content;
+    background-color: white;
+    display: none;
+    flex-direction: column;
+    border-radius: 10px;
+    align-items: left;
+    padding-top: 20px;
+    box-sizing: border-box;
+    position: absolute;
+    top: 200px;
+    cursor: move;
+    margin-left: -200px;
+    z-index: 9999;
+}
+ 
+#close {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    font-weight: normal;
+    display: block;
+    width: 50px;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    border-radius: 20px;
+    color: chocolate;
+}
+
+#close:hover {
+    background-color: coral;
+    cursor: pointer;
+}
+ 
+#box input {
+    width: 200px;
+    height: 25px;
+    border-radius: 0px;
+    border: none;
+    outline: none;
+    background-color: #536a9e;
+    color: #fff;
+}
+ 
+#box input::-webkit-input-placeholder {
+    color: rgb(255, 255, 255);
+    opacity: 0.4;
+}
+
+#box input:first-child {
+    margin-bottom: 0px;
+}
+ 
+#box #login {
+    cursor: pointer;
+    width: 300px;
+    height: 30px;
+    background-color: #02a0a0;
+}
+
+#box #login:hover {
+    background-color: #019191;
+}
+
+@media screen and (max-width: 600px) {
+#open {
+    display: block;
+    margin-top: 30px;
+    margin-left: 330px;
+}
+
+    
+}
+        </style>
+
+        <script>
+          function my$(id) {
+  return document.getElementById(id);
+}
+
+
+function getPage(e) {
+  var pageX = e.pageX || e.clientX + getScroll().scrollLeft;
+  var pageY = e.pageY || e.clientY + getScroll().scrollTop;
+  return {
+    pageX: pageX,
+    pageY: pageY
+  }
+}
+        </script>
+    </head>
+
+    <body>
+        <input type="button" id="open" value="MENU">
+        <div id="container">
+            
+            <div id="hidden"></div>
+            <div id="box">
+                <strong id="close">Close</strong>
+                <div style="margin-left: 0 ;">
+                <link rel="stylesheet" href="/css/mainmenu.css">
+<nav class="menu">
+	
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1"></span>
+	</button>
+	
+	<ul class="menu__list">
+		<li class="menu__item"> 
+			<a class="menu__link" style="margin-top:10px;" href="/unternehmen">
+				
+				<span class="menu__text">Unternehmen</span>
+				
+			</a>
+		</li>
+		<li class="menu__item menu__dropdown">
+			<a style="margin-top:7px;" class="menu__link" href="/consulting">
+				
+				<span class="menu__text">Consulting</span>
+				<label class="drop-icon" for="Consulting">▾</label>
+				
+			</a>
+			<input type="checkbox" id="Consulting">
+			<ul class="submenu__list" style="font-size: 70%;">
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/consulting/testautomatisierung-im-meldewesen">
+						
+						<span class="menu__text">Testautomatisierung im Meldewesen</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/consulting/toolgestuetzte-reportingloesungen">
+						
+						<span class="menu__text">Toolgestützte Reportinglösungen</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/consulting/meldewesen-aenderungsprozesse">
+						
+						<span class="menu__text">Meldewesen Änderungsprozesse</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/consulting/datenmigration-im-meldewesen">
+						
+						<span class="menu__text">Datenmigration Meldewesen</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/consulting/solvency-ii-consulting">
+						
+						<span class="menu__text">Solvency II Consulting</span>
+						
+					</a>
+					</li>
+				
+			</ul>
+		</li>
+		<li class="menu__item menu__dropdown">
+			<a style="margin-top:7px;" class="menu__link" href="/solutions">
+				
+				<span class="menu__text">Solutions</span>
+				<label class="drop-icon" for="Solutions">▾</label>
+				
+			</a>
+			<input type="checkbox" id="Solutions">
+			<ul class="submenu__list" style="font-size: 70%;">
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/solutions/kernkomponenten">
+						
+						<span class="menu__text">Kernkomponenten</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/solutions/kernkomponenten/grc2-regressiontest">
+						
+						<span class="menu__text">GRC² Regressiontest</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/solutions/kernkomponenten/grc2-management-reporting">
+						
+						<span class="menu__text">GRC² Management Reporting</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/solutions/kernkomponenten/grc2-ready-to-run">
+						
+						<span class="menu__text">GRC² Ready To Run</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/solutions/zusatzmodule">
+						
+						<span class="menu__text">Zusatzmodule</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/solutions/zusatzmodule/grc2-gridaudit">
+						
+						<span class="menu__text">GRC² GridAudit</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/solutions/zusatzmodule/grc2-gridreporting">
+						
+						<span class="menu__text">GRC² GridReporting</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/solutions/zusatzmodule">
+						
+						<span class="menu__text">Weitere</span>
+						
+					</a>
+					</li>
+				
+			</ul>
+		</li>
+		<li class="menu__item menu__dropdown">
+			<a style="margin-top:7px;" class="menu__link" href="/services">
+				
+				<span class="menu__text">Services</span>
+				<label class="drop-icon" for="Services">▾</label>
+				
+			</a>
+			<input type="checkbox" id="Services">
+			<ul class="submenu__list" style="font-size: 70%;">
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/services/regression-testing">
+						
+						<span class="menu__text">Regression Testing</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/services/meldewesen-on-demand">
+						
+						<span class="menu__text">Meldewesen on Demand</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/services/regulatory-impact">
+						
+						<span class="menu__text">Regulatory Impact</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/services/technical-support">
+						
+						<span class="menu__text">Technical Support</span>
+						
+					</a>
+					</li>
+				
+			</ul>
+		</li>
+		<li class="menu__item menu__dropdown">
+			<a style="margin-top:7px;" class="menu__link" href="/karriere">
+				
+				<span class="menu__text">Karriere</span>
+				<label class="drop-icon" for="Karriere">▾</label>
+				
+			</a>
+			<input type="checkbox" id="Karriere">
+			<ul class="submenu__list" style="font-size: 70%;">
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/karriere/stellenangebote">
+						
+						<span class="menu__text">Stellenangebote</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/karriere/warum-gridcon">
+						
+						<span class="menu__text">Warum GridCon</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/karriere/einstiegsmoeglichkeiten">
+						
+						<span class="menu__text">Einstiegsmöglichkeiten</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/karriere/weiterentwicklung">
+						
+						<span class="menu__text">Weiterentwicklung</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/karriere/karrierestufen">
+						
+						<span class="menu__text">Karrierestufen</span>
+						
+					</a>
+					</li>
+				
+			</ul>
+		</li>
+	</ul>
+</nav>
+
+                </div>
+            </div>
+        </div>
+        <script src="common.js"></script>
+        <script>
+            var open = my$('open');
+            var box = my$('box');
+            var hidden = my$('hidden');
+            var close = my$('close');
+            open.onclick = function () {
+                box.style.display = 'flex';
+                hidden.style.display = 'block';
+            }
+            close.onclick = function () {
+                box.style.display = 'none';
+                hidden.style.display = 'none';
+                
+                box.style.top = '200px';
+                box.style.left = '';
+            }
+            box.onmousedown = function (e) {
+                e = e || window.event;
+                
+                var x = getPage(e).pageX - box.offsetLeft;
+                var y = getPage(e).pageY - box.offsetTop;
+                document.onmousemove = function (e) {
+                    e = e || window.event;
+                    box.style.left = getPage(e).pageX - x + 'px';
+                    box.style.top = getPage(e).pageY - y + 'px';
+                }
+            }
+            document.onmouseup = function () {
+                document.onmousemove = null;
+            }
+        </script>
+    </body>
+
+</html>
+    </div>
+
+    <div id="menu" class="handyhidden">
+        <link rel="stylesheet" href="/css/mainmenu.css">
+<nav class="menu">
+	
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1"></span>
+	</button>
+	
+	<ul class="menu__list">
+		<li class="menu__item"> 
+			<a class="menu__link" style="margin-top:10px;" href="/unternehmen">
+				
+				<span class="menu__text">Unternehmen</span>
+				
+			</a>
+		</li>
+		<li class="menu__item menu__dropdown">
+			<a style="margin-top:7px;" class="menu__link" href="/consulting">
+				
+				<span class="menu__text">Consulting</span>
+				<label class="drop-icon" for="Consulting">▾</label>
+				
+			</a>
+			<input type="checkbox" id="Consulting">
+			<ul class="submenu__list" style="font-size: 70%;">
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/consulting/testautomatisierung-im-meldewesen">
+						
+						<span class="menu__text">Testautomatisierung im Meldewesen</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/consulting/toolgestuetzte-reportingloesungen">
+						
+						<span class="menu__text">Toolgestützte Reportinglösungen</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/consulting/meldewesen-aenderungsprozesse">
+						
+						<span class="menu__text">Meldewesen Änderungsprozesse</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/consulting/datenmigration-im-meldewesen">
+						
+						<span class="menu__text">Datenmigration Meldewesen</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/consulting/solvency-ii-consulting">
+						
+						<span class="menu__text">Solvency II Consulting</span>
+						
+					</a>
+					</li>
+				
+			</ul>
+		</li>
+		<li class="menu__item menu__dropdown">
+			<a style="margin-top:7px;" class="menu__link" href="/solutions">
+				
+				<span class="menu__text">Solutions</span>
+				<label class="drop-icon" for="Solutions">▾</label>
+				
+			</a>
+			<input type="checkbox" id="Solutions">
+			<ul class="submenu__list" style="font-size: 70%;">
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/solutions/kernkomponenten">
+						
+						<span class="menu__text">Kernkomponenten</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/solutions/kernkomponenten/grc2-regressiontest">
+						
+						<span class="menu__text">GRC² Regressiontest</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/solutions/kernkomponenten/grc2-management-reporting">
+						
+						<span class="menu__text">GRC² Management Reporting</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/solutions/kernkomponenten/grc2-ready-to-run">
+						
+						<span class="menu__text">GRC² Ready To Run</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/solutions/zusatzmodule">
+						
+						<span class="menu__text">Zusatzmodule</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/solutions/zusatzmodule/grc2-gridaudit">
+						
+						<span class="menu__text">GRC² GridAudit</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/solutions/zusatzmodule/grc2-gridreporting">
+						
+						<span class="menu__text">GRC² GridReporting</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/solutions/zusatzmodule">
+						
+						<span class="menu__text">Weitere</span>
+						
+					</a>
+					</li>
+				
+			</ul>
+		</li>
+		<li class="menu__item menu__dropdown">
+			<a style="margin-top:7px;" class="menu__link" href="/services">
+				
+				<span class="menu__text">Services</span>
+				<label class="drop-icon" for="Services">▾</label>
+				
+			</a>
+			<input type="checkbox" id="Services">
+			<ul class="submenu__list" style="font-size: 70%;">
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/services/regression-testing">
+						
+						<span class="menu__text">Regression Testing</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/services/meldewesen-on-demand">
+						
+						<span class="menu__text">Meldewesen on Demand</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/services/regulatory-impact">
+						
+						<span class="menu__text">Regulatory Impact</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/services/technical-support">
+						
+						<span class="menu__text">Technical Support</span>
+						
+					</a>
+					</li>
+				
+			</ul>
+		</li>
+		<li class="menu__item menu__dropdown">
+			<a style="margin-top:7px;" class="menu__link" href="/karriere">
+				
+				<span class="menu__text">Karriere</span>
+				<label class="drop-icon" for="Karriere">▾</label>
+				
+			</a>
+			<input type="checkbox" id="Karriere">
+			<ul class="submenu__list" style="font-size: 70%;">
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/karriere/stellenangebote">
+						
+						<span class="menu__text">Stellenangebote</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/karriere/warum-gridcon">
+						
+						<span class="menu__text">Warum GridCon</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/karriere/einstiegsmoeglichkeiten">
+						
+						<span class="menu__text">Einstiegsmöglichkeiten</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/karriere/weiterentwicklung">
+						
+						<span class="menu__text">Weiterentwicklung</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/karriere/karrierestufen">
+						
+						<span class="menu__text">Karrierestufen</span>
+						
+					</a>
+					</li>
+				
+			</ul>
+		</li>
+	</ul>
+</nav>
+
+    </div>
+    
+
+    
+  <marquee direction=left><a class="aktuellenthemen font2" style="color: chocolate;" href="/grc2-fragen/">>GRC² Regressiontest(Fragen und Antworten zu unserer Meldewesen-Zusatzkomponete)</a></marquee>
+  <link rel="stylesheet" href="/css/submenu.css">
+
+
+<style>
+    @media screen and (max-width: 600px) {
+        div.handysubmenu ul.submenu li.handysubmenu {
+            margin-left: 7%;
+        }
+    }
+</style>
+
+<div class="handysubmenu">
+<ul class="submenu">
+    <li class="submenu" style="margin-left: 10%;"><a class="submenu" href=https://ssmiles11.github.io/>Home</a></li>
+    <li class="submenu"><a class="submenu" href="https://ssmiles11.github.io/solutions/zusatzmodule/">&nbsp&nbsp|&nbsp&nbspZusatzmodule</a></li>
+    <li class="submenu handysubmenu" ><p>&nbsp&nbsp|&nbsp&nbspGRC² DataMigrator</p></li>
+</ul>
+</div>
+  <link rel="stylesheet" href="/css/list_post.css">
+
+<style>
+    @media screen and (max-width: 600px) {
+        div.handylist div.divbox1 h1.h1posts {
+            font-size: 30px;
+        }
+    }
+</style>
+
+<div class="handylist">
+<div class="divbox1">
+    
+    <h1 class="h1posts">GRC² DataMigrator</h1>
+    <h2 class="postsdescriptions">direkte Daten-Übertragung aus einer Quell-Datenbank in ein Ziel-Datenbank</h2>
+    <ul>
+<li>
+<p>Direkte selektive Übertragung von Daten aus einer Quell-Datenbank in eine Ziel-Datenbank</p>
+</li>
+<li>
+<p>Optionen zur Hinterlegung von Filterbedingungen für die zu migrierenden Datensätze</p>
+</li>
+<li>
+<p>Definition von SQL-Skripten zur Ausführung auf Quell- und Ziel-Datenbank vor und nach Migration</p>
+</li>
+<li>
+<p>Möglichkeit zur Speicherung der Einstellungen für künftige Migrationen</p>
+</li>
+</ul>
+
+    
+</div>
+</div>
+
+
+
+  
+  
+  <link rel="stylesheet" href="/css/box_1.css">
+
+<div class="flex-container" >
+  
+  
+      <div class="box1column">
+        <h1 class="title1">GRC²  DataImporter</h1>
+        <p class="description1">Import von Daten aus CSV-Dateien als Ergänzung zum Meldewesen-Datenbestand</p>
+        <button class="button1"><a class="box1" href="https://ssmiles11.github.io/solutions/zusatzmodule/grc2-dataimporter/">ZUR LEISTUNG</a></button>
+      </div>
+  
+  
+  
+      <div class="box1column">
+        <h1 class="title1">GRC² DataExporter</h1>
+        <p class="description1">Export von Meldewesendaten in CSV-Dateien</p>
+        <button class="button1"><a class="box1" href="https://ssmiles11.github.io/solutions/zusatzmodule/grc2-dataexporter/">ZUR LEISTUNG</a></button>
+      </div>
+  
+  
+  
+      <div class="box1column">
+        <h1 class="title1">GRC² DataMigrator</h1>
+        <p class="description1">direkte Daten-Übertragung aus einer Quell-Datenbank in ein Ziel-Datenbank</p>
+        <button class="button1"><a class="box1" href="https://ssmiles11.github.io/solutions/zusatzmodule/grc2-datamigrator/">ZUR LEISTUNG</a></button>
+      </div>
+  
+  
+  
+      <div class="box1column">
+        <h1 class="title1">GRC² GridValid</h1>
+        <p class="description1">Umfassender Positionsabgleich bei Formalprüfungen</p>
+        <button class="button1"><a class="box1" href="https://ssmiles11.github.io/solutions/zusatzmodule/grc2-gridvalid/">ZUR LEISTUNG</a></button>
+      </div>
+  
+  
+  
+      <div class="box1column">
+        <h1 class="title1">GRC² – GridSelect</h1>
+        <p class="description1">Optimiertes Reporting durch dynamische Datenselektion</p>
+        <button class="button1"><a class="box1" href="https://ssmiles11.github.io/solutions/zusatzmodule/grc2-gridselect/">ZUR LEISTUNG</a></button>
+      </div>
+  
+  
+  
+      <div class="box1column">
+        <h1 class="title1">GRC² GridReporting</h1>
+        <p class="description1">Flexibles Reporting auf Basis der Meldewesen-Datenbestände</p>
+        <button class="button1"><a class="box1" href="https://ssmiles11.github.io/solutions/zusatzmodule/grc2-gridreporting/">ZUR LEISTUNG</a></button>
+      </div>
+  
+  
+  
+      <div class="box1column">
+        <h1 class="title1">GRC² – GridAudit</h1>
+        <p class="description1">Persistentes Abweichungstracking beim Datenabgleich</p>
+        <button class="button1"><a class="box1" href="https://ssmiles11.github.io/solutions/zusatzmodule/grc2-gridaudit/">ZUR LEISTUNG</a></button>
+      </div>
+  
+  
+  
+  
+</div>
+
+  
+  
+
+
+
+    <style>
+    #mySidenav a {
+    position: absolute;
+    left: -90px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+    }
+    
+    #mySidenav a:hover {
+    left: 0;
+    }
+    
+    #about {
+    top: 20px;
+    background-color: #4CAF50;
+    }
+    
+    #blog {
+    top: 80px;
+    background-color: #2196F3;
+    }
+    
+    #impressum {
+    top: 140px;
+    background-color: chocolate;
+    }
+    
+    #kontakt {
+    top: 200px;
+    background-color: chocolate;
+    }
+    
+    @media screen and (max-width: 600px) {
+        #impressum {
+            display: none;
+        }
+    
+        #kontakt {
+            display: none;
+        }
+    }
+</style>
+<div id="mySidenav" class="sidenav" style="position:fixed;top: 50%;">
+    
+    <a href="/impressum" id="impressum">Impressum</a>
+    <a href="/kontakt" id="kontakt">Kontakt</a>
+</div>
+ 
+    
+    
+    
+    <link rel="stylesheet" href="/css/footer.css">
+
+<style>
+    @media screen and (max-width: 600px) {
+        footer.footer div.handyfooter {
+            text-align: center;
+            
+        }
+    }
+</style>
+<hr class="hr" style="width:inherit;">
+    <footer class="footer" >
+        <div class="handyfooter" style="margin-left: 10%;margin-right: 10%;">
+        
+ 
+        <a class="p1" href="/impressum">Impressum</a>
+ 
+         &nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp
+ 
+        <a class="p1" href="/kontakt" >Kontakt</a>
+
+        <a class="p2">GridCon Consulting GmbH, 2022</a>
+        <br>
+        <br>
+    </div>
+    </footer>
+
+    
+    
+  </body>
+</html>

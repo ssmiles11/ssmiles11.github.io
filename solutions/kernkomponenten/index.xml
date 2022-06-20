@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kernkomponenten on GridCon Consulting GmbH</title>
+    <link>https://ssmiles11.github.io/solutions/kernkomponenten/</link>
+    <description>Recent content in Kernkomponenten on GridCon Consulting GmbH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Apr 2022 13:58:37 +0200</lastBuildDate><atom:link href="https://ssmiles11.github.io/solutions/kernkomponenten/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GRC² Ready To Run</title>
+      <link>https://ssmiles11.github.io/solutions/kernkomponenten/grc2-ready-to-run/</link>
+      <pubDate>Wed, 27 Apr 2022 13:50:17 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/kernkomponenten/grc2-ready-to-run/</guid>
+      <description>Wir stellen für GRC² Regressiontest als auch GRC² Management Reporting vorbereitete Module zur Verwendung unter einer Reihe von bankfachlichen Standardprodukten bereit.
+Die entsprechenden Schnittstellen und Anpassungen auf das jeweils Produkt-spezifische Datenmodell sind hier bereits vollständig implementiert.
+GRC² ist für diese Produkte „Ready to Run“ einsetzbar.
+Wir bieten Ihnen GRC² Ready to Run unter anderem für die folgenden Produkte:
+  ABACUS/DaVinci
+  ABACUS/Solvency II
+  BSM BAIS
+  avaloq Banking Suite (Modul-bezogen)</description>
+    </item>
+    
+    <item>
+      <title>GRC² Management Reporting</title>
+      <link>https://ssmiles11.github.io/solutions/kernkomponenten/grc2-management-reporting/</link>
+      <pubDate>Wed, 27 Apr 2022 13:49:16 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/kernkomponenten/grc2-management-reporting/</guid>
+      <description>Banken und Finanzinstitute haben zunehmend komplexe Anforderungen an die Erstellung von Datenauswertungen, Analysen sowie strategischer Planungen auf Grundlage der Datenbestände bankfachlicher Quellsysteme.
+Diese zugrundeliegenden Systeme – unter anderem Kernbank- und Meldewesen-Systeme – sind für diesen Zweck allerdings weder vorgesehen noch vorbereitet. Zweck dieser Systeme ist vielmehr die vollständige Umsetzung des operativen Bankgeschäfts unter vollständiger Sicherstellung notwendiger Verfügbarkeit und Performance. Der Versuch die benötigten Managementanalysen ohne Einsatz spezialisierter Software zu erstellen, erbringt daher meist nicht die gewünschten Ergebnisse und beinhaltet zudem das Risiko von Last- und Performance-Problemen der geschäftskritischen Banksysteme.</description>
+    </item>
+    
+    <item>
+      <title>GRC² Regressiontest</title>
+      <link>https://ssmiles11.github.io/solutions/kernkomponenten/grc2-regressiontest/</link>
+      <pubDate>Wed, 27 Apr 2022 13:47:04 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/kernkomponenten/grc2-regressiontest/</guid>
+      <description>Mittels GRC² Regressiontest bieten wir Ihnen die Möglichkeit zur vollständigen Automatisierung der regelmäßigen Regressionstests im regulatorischen Reporting.
+Die Notwendigkeit zur Duchführung von Regressionstests entsteht regelmäßig in vielen Bereichen der Finanzinstitute. Merkmal eines Regressionstests ist die Wiederholung von Prüfungen für an sich bereits erfolgreich getestete Funktionalität einer Software.
+Die Frequenz notwendiger Regressionstest im regulatorischen Meldewesen ist erfahrungsgemäß besonders hoch.
+Auslöser sind unter anderem:
+  neue oder geänderte regulatorische Anforderungen
+  Fehler-getrieben neue Software-Releases der Hersteller sowie</description>
+    </item>
+    
+    <item>
+      <title>Kernkomponenten GRC²</title>
+      <link>https://ssmiles11.github.io/solutions/kernkomponenten/kernkomponenten/</link>
+      <pubDate>Tue, 26 Apr 2022 13:45:32 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/kernkomponenten/kernkomponenten/</guid>
+      <description>Unsere Produktpalette GRC² (Grid Reporting &amp;amp; Compliance Center) wurde gezielt für die Anforderungen des regulatorischen Reportings entwickelt und bietet umfassende Test-, Report- und Prozess-Automatisierung im Meldewesen.
+GRC² sowie die erhältlichen Zusatzmodule ermöglichen massive Effizienzsteigerungen im Regressionstest und Management-Reporting sowie in der operativen Ausführung des Meldewesens.</description>
+    </item>
+    
+  </channel>
+</rss>

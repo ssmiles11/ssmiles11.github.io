@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grc2 Fragen on GridCon Consulting GmbH</title>
+    <link>https://ssmiles11.github.io/grc2-fragen/</link>
+    <description>Recent content in Grc2 Fragen on GridCon Consulting GmbH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 May 2022 10:27:19 +0200</lastBuildDate><atom:link href="https://ssmiles11.github.io/grc2-fragen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Select_17</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_17/</link>
+      <pubDate>Fri, 06 May 2022 14:16:56 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_17/</guid>
+      <description>GRC² bietet eine ganze Reihe Meldewesen-spezifischer Testfunktionen. GRC² Regressiontest ist jedoch für beliebige weitere Softwaresysteme einsetzbar und wir bieten Module zum Einsatz von GRC² für den Regressionstest weiterer Standard-Softwareprodukte im Bankensektor. In gleicher Weise kann GRC² Regressiontest zum Test von Individualsoftware verwendet werden. Einzige Voraussetzung ist das Vorliegen der Vergleichsdaten in Datenbanken oder in Form von csv-Dateien.
+Es können zudem beliebige Datenbanksysteme (z.B. Oracle, DB2, MySQL, HSQLDB) in beliebiger Zahl in die GRC² Abweichungsanalyse eingebunden werden werden.</description>
+    </item>
+    
+    <item>
+      <title>Select_16</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_16/</link>
+      <pubDate>Fri, 06 May 2022 14:16:52 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_16/</guid>
+      <description>Ja, soweit die Parametrisierung der Meldewesen-Software Datenbank-gespeichert (oder als csv-Datei) vorliegt, kann auch die gesamte Parametrierung der Meldesoftware auf Abweichungen geprüft werden.</description>
+    </item>
+    
+    <item>
+      <title>Select_15</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_15/</link>
+      <pubDate>Fri, 06 May 2022 14:16:48 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_15/</guid>
+      <description>Ja, Validierungsregeln können unter GRC² in die Abweichungsanalyse einbezogen werden. Wir ermöglichen mit GRC² hierbei sowohl Abgleiche der Validierungsregeln zwischen verschiedenen Versionen der Meldesoftware, als auch Abweichungsanalysen versus der Validierungsregeln wie seitens der Aufsicht veröffentlich.</description>
+    </item>
+    
+    <item>
+      <title>Select_14</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_14/</link>
+      <pubDate>Fri, 06 May 2022 14:16:44 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_14/</guid>
+      <description>Ja. Die Allokationsbedingungen pro Formularposition werden durch GRC² standardmäßig abgeglichen und die Ergebnisse dieser Abweichungsanalyse im GRC²- Dashboard angezeigt.</description>
+    </item>
+    
+    <item>
+      <title>Select_13</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_13/</link>
+      <pubDate>Fri, 06 May 2022 14:16:41 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_13/</guid>
+      <description>Ja, der Anwender kann die GRC²-Testergebnisse offline analysieren und kommentieren (Excel-basiertes GRC² Frontend). Er muss hierzu weder in GRC² noch in der Meldewesen-Software angemeldet sein. Alle hierzu benötigten GRC²-Funktionen (Drill-Downs etc.) stehen offline zur Verfügung.</description>
+    </item>
+    
+    <item>
+      <title>Select_12</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_12/</link>
+      <pubDate>Fri, 06 May 2022 14:16:37 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_12/</guid>
+      <description>Ja, die Verarbeitungsergebnisse für die GRC² Abweichungsanalyse müssen nicht auf der gleichen Umgebung vorliegen. Es können somit Meldewesen-Verarbeitungsergebnisse aus verschiedenen Testumgebungen verglichen werden, als auch ist es möglich unmittelbar aus einer Testumgebung gegen Verarbeitungsergebnisse auf Produktion abzugleichen. Es muss für diesen Zweck kein Vergleichsbestand auf die Testumgebung übertragen (oder neu generiert) werden, sofern dieser bereits auf einer anderen bestehenden Umgebung vorliegt.</description>
+    </item>
+    
+    <item>
+      <title>Select_11</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_11/</link>
+      <pubDate>Fri, 06 May 2022 14:16:34 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_11/</guid>
+      <description>Ja. GRC² erkennt manuelle Änderungen. Die Handhabung manueller Änderung unter GRC² ist konfigurierbar. Manuelle Änderungen können wenn gewünscht per GRC²-Konfiguration aus dem Abgleich ausgeschlossen werden und sind dann im Testergebnis nicht enthalten.</description>
+    </item>
+    
+    <item>
+      <title>Select_10</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_10/</link>
+      <pubDate>Fri, 06 May 2022 14:16:30 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_10/</guid>
+      <description>Ja, Ausschlüsse sind vordefinierbar. Ausschlüsse können zudem selektiv pro Iteration ausgewählt werden.
+Dies ist insbesondere wünschenswert, wenn bestehende bekannte Abweichungen im Testergebnis nicht relevant sind.</description>
+    </item>
+    
+    <item>
+      <title>Select_9</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_9/</link>
+      <pubDate>Fri, 06 May 2022 14:16:24 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_9/</guid>
+      <description>Ja, GRC² bietet die Option zum Abgleich gegen erwartete Ergebnisse (Soll-Ergebnisse). Die Soll-Ergebnisse müssen hierzu in der Datenbank oder als csv-Format vorliegen.</description>
+    </item>
+    
+    <item>
+      <title>Select_8</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_8/</link>
+      <pubDate>Fri, 06 May 2022 14:16:20 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_8/</guid>
+      <description>Kommentare zu den Abweichungen können pro Zelle vom Anwender erfasst werden. GRC² stellt hierzu ein Excel-basiertes Frontend zur Verfügung. Der GRC²-Benutzer benötigt somit keinen Zugriff auf die Meldewesen-Software (weder zum Start eines GRC²-Testaufs noch zur Analyse der Testergegbnisse).
+Einmal vom Anwender erfasste Kommentare werden als Eingangsstatus in nachfolgende Testiteration eines GRC²-Testprojekts übernommen (Kommentare müssen somit nicht wiederholt für jede Testiteration erfasst werden).</description>
+    </item>
+    
+    <item>
+      <title>Select_7</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_7/</link>
+      <pubDate>Fri, 06 May 2022 14:16:15 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_7/</guid>
+      <description>Ja, der Testgegenstand kann unter GRC² völlig flexibel definiert werden (von einer kompletten Meldungen des Institus bis zur Einschränkung der Abweichungsanalyse auf ein einzelnes Melde-Formular).</description>
+    </item>
+    
+    <item>
+      <title>Select_6</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_6/</link>
+      <pubDate>Fri, 06 May 2022 14:15:59 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_6/</guid>
+      <description>Ja, in GRC² können Testprojekte als auch Testiterationen angelegt und verwaltet werden (klassische Funktion eines Testmanagement-Tools).
+Pro angelegtem Projekt -beispielsweise einem Meldewesen-Releasewechsel- kann in mehreren Iterationen getestet werden.
+Die Testergebnisse werden in GRC² pro Iteration dokumentiert. Die dokumentierten Analyse-Ergebnisse nach Auswertung einer Test-Iteration (also die vom Nutzer erfassten Kommentare zur Abweichungsursache) werden als Eingangsstatus in Folge-Iterationen übernommen. Analyse-Ergebnisse müssen somit nur einmal erfasst werden (nicht pro Iteration).</description>
+    </item>
+    
+    <item>
+      <title>Select_4</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_4/</link>
+      <pubDate>Fri, 06 May 2022 10:42:21 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_4/</guid>
+      <description>Ja, GRC² ermöglicht den schrittweisen Drill-Down aus dem GRC² Dashboard (Teststatus gesamthaft) bis auf Meldebereichs-Ebene, Formular-Ebene und weiter bis auf Einzelgeschäfts-Ebene. Der Drill-Down erfolgt jeweils per Mausklick auf eine Abweichung. Die Abweichungen können durch den Anwender somit unmittelbar in GRC² bis auf Ebene der verursachenden Einzelgeschäfte analysiert werden. Die Analyseergebnisse – beispielsweise Betragshöhe der erläuterten Abweichungen sowie Kommentare zur Abweichungsursache – werden dabei vom Anwender unmittelbar in GRC² dokumentiert.</description>
+    </item>
+    
+    <item>
+      <title>Select_5</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_5/</link>
+      <pubDate>Fri, 06 May 2022 10:42:21 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_5/</guid>
+      <description>GRC² Testläufe können sowohl Batch-basiert ausgeführt als auch Nutzer-seitig gestartet werden. In der Praxis werden regelmäßig beide Optionen in einem Testprojekt verwendet (beispielsweise, wenn nach einem Batch-basiertem GRC²-Testlauf durch den Anwender ein Nachtest für ein einzelnes Formular gewünscht ist). Anwenderseitig sind nach Teststart keine weiteren Aktivitäten notwendig. Die GRC² Testergebnisse werden vollautomatisch bereitgestellt.</description>
+    </item>
+    
+    <item>
+      <title>Select_3</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_3/</link>
+      <pubDate>Fri, 06 May 2022 10:42:17 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_3/</guid>
+      <description>GRC² zeigt das Ergebnis eines Testlaufs gesamthaft in Form des GRC²-Dashboards.
+Die Darstellung im GRC²-Dashboard kann individuell konfiguriert werden und folgt im Standardfall der Struktur des Instituts-individuellen Meldebaums.
+Aus dem GRC²-Dashboard kann durch den Anwender mittels Mausklick schrittweise bis auf Einzelgeschäfts-Ebene navigiert werden (Drill-Down).
+Von GRC² identifizierte Abweichungen können somit ausgehend vom Dashboard schrittweise bis zur notwendigen Detaillierung nachvollzogen werden:
+ GRC² Dashboard (Testergebnis gesamthaft) Testergebnis Meldebereichs-Ebene Testergebnis Formular-Ebene Abweichungen auf Einzelgeschäfts-Ebene (Einzelgeschäfte, die ggf.</description>
+    </item>
+    
+    <item>
+      <title>Select_2</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_2/</link>
+      <pubDate>Fri, 06 May 2022 10:42:11 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_2/</guid>
+      <description>Mittels GRC² Regressiontest wird vollständige Testabdeckung erreicht. Es werden ohne Ausnahme alle Meldungen in den Test einbezogen.
+Das Ergebnis eines Testlaufs wird analog Aufbau Ihres individuellen Meldebaums im GRC²-Dashboard dargestellt und kann vom Anwender per Drill-Down bis auf Einzelgeschäfts-Ebene analysiert werden.
+Darstellungsebenen der GRC²-Testergebnisse:
+ GRC² Dashboard (Testergebnis-Dashboard) Meldebereichs-Ebene Formular-Ebene Einzelgeschäfts-Ebene  </description>
+    </item>
+    
+    <item>
+      <title>Select_1</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/select_1/</link>
+      <pubDate>Fri, 06 May 2022 10:40:10 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/select_1/</guid>
+      <description>Testansatz von GRC²-Regressiontest ist die automatisierte Abweichungsanalyse zwischen zwei Meldeverarbeitungen bei vollständiger Testabdeckung.
+GRC² vergleicht somit den Ist-Status nach Meldeverarbeitung versus einem vorgegebenem Soll-Ergebnis für diese Verabeitung.
+Als Testgegenstand können unter GRC² definiert werden (Beispiele): Zellwerte von Meldeformularen (Standard-Konfiguration), Allokationsregeln (Standard-Konfiguration) sowie darüber hinausgehend Validierungsregeln und die Inhalte generierter XBRL-Formate.
+GRC² Regressiontest wird schwerpunktmäßig für den Regressionstest neuer Releases der eingesetzten Meldewesen-Software eingesetzt.
+Weitere Verwendungszwecke sind unter anderem fachliche Stichtagsvergleiche sowie Tests nach Änderungen an Meldewesen-Eingangsschnittstellen.</description>
+    </item>
+    
+    <item>
+      <title>GRC² Regressiontest (Fragen &amp; Antworten)</title>
+      <link>https://ssmiles11.github.io/grc2-fragen/grc2-fragen/</link>
+      <pubDate>Fri, 06 May 2022 10:27:10 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/grc2-fragen/grc2-fragen/</guid>
+      <description>(Wenn Sie mit Ihrem Mobiltelefon eine Webseite öffnen, drücken Sie lange auf das Textfeld, um die Antwort zu erhalten.)</description>
+    </item>
+    
+  </channel>
+</rss>

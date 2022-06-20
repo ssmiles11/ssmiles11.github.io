@@ -1,0 +1,35 @@
+div.buttonhidden {
+    display: none;
+}
+
+div.handyhidden {
+    display: block;
+}
+
+div.handylogo a {
+    float: left;
+    margin-left: 10%;
+}
+
+div.buttonhidden button {
+    background-color: white;
+    border: 0;
+}
+
+@media screen and (max-width: 600px) {
+    div.buttonhidden {
+        display: block;
+    }
+
+    div.handyhidden {
+        display: none;
+        position: relative;
+        left: -10%;
+        font-size: 80%;
+    }
+
+    div.handylogo {
+        position: relative;
+        left: -5%;
+    }
+}

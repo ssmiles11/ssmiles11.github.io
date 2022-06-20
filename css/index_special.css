@@ -1,0 +1,60 @@
+div.grossezeichenhidden {
+    background-color: chocolate;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: inherit;
+    padding-top:0.5%;
+    padding-bottom: 0.5%;
+  }
+
+  p.grossezeichen {
+    margin-left:20%;
+    color:white; 
+    font-size:5vmax;
+    line-height: 60%;
+  }
+
+  div.aktuellethemen {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size:1vmax;
+    text-align: center;
+    margin-top:1%;
+    margin-left:10%;
+    margin-right:10%;
+    line-height: 0%; 
+    border-top: solid 1px black;
+    border-bottom:solid 1px black;
+  }
+
+  a.aktuellenthemen {
+    color: chocolate; 
+    text-decoration: none;
+  }
+
+  @media screen and (max-width: 600px) {
+  div.grossezeichenhidden {display:none}
+  a.font2{font-size: 65%}
+  }
+
+  .index_column {
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 200%;
+    margin-bottom:8%;
+    height: fit-content;
+    font-size:1vmax;
+  }
+
+  h1.index_column {
+    color: chocolate;
+  }
+
+  hr.index_column {
+    color: chocolate;
+  }
+
+  a.index_column {
+    float:right; 
+    color:chocolate;
+    text-decoration: none;
+    line-height: 0%;
+  }

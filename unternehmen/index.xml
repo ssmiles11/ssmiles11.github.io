@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unternehmen on GridCon Consulting GmbH</title>
+    <link>https://ssmiles11.github.io/unternehmen/</link>
+    <description>Recent content in Unternehmen on GridCon Consulting GmbH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Apr 2022 13:20:44 +0200</lastBuildDate><atom:link href="https://ssmiles11.github.io/unternehmen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Über GridCon</title>
+      <link>https://ssmiles11.github.io/unternehmen/ueber-gridcon/</link>
+      <pubDate>Thu, 21 Apr 2022 14:38:46 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/unternehmen/ueber-gridcon/</guid>
+      <description>GridCon unterstützt Kreditinstitute und Versicherungen seit dem Jahr 2004 in technischen und fachlichen Fragestellungen. Wir verbinden branchenspezifisches Wissen mit IT-Kenntnissen und Organisationskompetenz. GridCon steht für die Realisierung individueller Anwendungssysteme, die Implementierung von Standardprodukten sowie für umfangreiche Automatisierungslösungen zur Abbildung regulatorischer Anforderungen in der Finanzwirtschaft. Zu unseren Kunden gehören die führenden Finanzinstitute auf nationaler und internationaler Ebene.</description>
+    </item>
+    
+    <item>
+      <title>Firmenporträt</title>
+      <link>https://ssmiles11.github.io/unternehmen/firmenportraet/</link>
+      <pubDate>Wed, 20 Apr 2022 14:44:02 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/unternehmen/firmenportraet/</guid>
+      <description>Wir bieten vollumfängliche fachliche und technische Unterstützung in den Themen Meldewesen, Regulatory Compliance, Basel III/ CRD IV, Accounting (IFRS, HGB), Risikosteuerung, Geldwäsche sowie MaRisk in verschiedenen europäischen Ländern.
+Unsere Fokus-Themen sind das aufsichtsrechtliche Meldewesen, die Einhaltung regulatorischer Rahmenbedingungen sowie flexible Lösungen für Automatisierung und internes Reporting auf Basis von Meldewesen-Beständen im Finanzsektor. Darüber hinaus bilden Schnittstellen-Entwicklung sowie Test-Automatisierung im Meldewesen die Kernkompetenzen unseres Unternehmens.
+Wir unterstützen unsere Kunden ganzheitlich durch individuelle, strategische Beratungsleistungen zur Einhaltung gesetzlicher Vorgaben sowie intelligente, produktbasierte Entwicklungs- und Automatisierungslösungen.</description>
+    </item>
+    
+  </channel>
+</rss>

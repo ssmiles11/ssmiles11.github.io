@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on GridCon Consulting GmbH</title>
+    <link>https://ssmiles11.github.io/posts/</link>
+    <description>Recent content in Posts on GridCon Consulting GmbH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 May 2022 14:04:33 +0200</lastBuildDate><atom:link href="https://ssmiles11.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consulting</title>
+      <link>https://ssmiles11.github.io/posts/co_main/</link>
+      <pubDate>Thu, 05 May 2022 14:03:41 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/posts/co_main/</guid>
+      <description>GridCon unterstützt Kreditinstitute und Versicherungen seit dem Jahr 2004 in technischen und fachlichen Fragestellungen. Wir verbinden branchenspezifisches Wissen mit IT-Kenntnissen und Organisationskompetenz.</description>
+    </item>
+    
+    <item>
+      <title>Solutions</title>
+      <link>https://ssmiles11.github.io/posts/so_main/</link>
+      <pubDate>Wed, 04 May 2022 14:03:50 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/posts/so_main/</guid>
+      <description>GridCon ist Hersteller der Meldewesen-Produktpalette GRC² (Grid Reporting &amp;amp; Compliance Center). Die in ihrer Art einzigartige Software steht für Qualitätssicherung und Automatisierung im regulatorischen Reporting der Banken und Versicherungen.</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://ssmiles11.github.io/posts/se_main/</link>
+      <pubDate>Tue, 03 May 2022 14:04:00 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/posts/se_main/</guid>
+      <description>Das aufsichtsrechtliche Meldewesen stellt einen beträchtlichen Kostenblock für Banken und Finanzinstitute dar. In enger Abstimmung mit unseren Kunden bieten wir Ihnen definierte Leistungspakete zur Unterstützung aller operativen Leistungen im Meldewesen.</description>
+    </item>
+    
+  </channel>
+</rss>

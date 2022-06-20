@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on GridCon Consulting GmbH</title>
+    <link>https://ssmiles11.github.io/services/</link>
+    <description>Recent content in Services on GridCon Consulting GmbH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2022 14:27:32 +0200</lastBuildDate><atom:link href="https://ssmiles11.github.io/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technical Support</title>
+      <link>https://ssmiles11.github.io/services/technical-support/</link>
+      <pubDate>Wed, 27 Apr 2022 14:26:02 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/services/technical-support/</guid>
+      <description>Wir unterstützen und übernehmen bei Bedarf alle Tätigkeiten im Rahmen der technischen Betreuung der Meldewesensysteme:
+  Vorbereitung und Umsetzung von Releasewechseln des Meldesystems (Installation, Konfiguration und Test von System-Updates)
+  Technische Konzeption und Implementierung von Schnittstellen
+  Export und Import von Daten zur Weiterverarbeitung an andere Systeme
+  Konzeption, Erweiterung, Implementierung und Einbindung von Vorverarbeitungen
+  Erstellung und Umsetzung von Jobketten (Batch/ Skripting)
+  Erarbeitung und Umsetzung von Lösungen für Monitoring, Wartung, Administration sowie Backup und Recovery der Meldewesensysteme</description>
+    </item>
+    
+    <item>
+      <title>Regulatory Impact (Meldewesen-Service)</title>
+      <link>https://ssmiles11.github.io/services/regulatory-impact/</link>
+      <pubDate>Wed, 27 Apr 2022 14:24:23 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/services/regulatory-impact/</guid>
+      <description>Mit unserem Meldewesen-Service „Regulatory Impact“ übernehmen wir als definiertes Leistungspaket im Auftrag unserer Kunden:
+  Identifikation neuer und geänderter regulatorischer Meldeanforderungen auf nationaler und internationaler Ebene (regulatorisches Screening)
+  regelmäßige Information über neue Anforderungen durch Newsletter in regelmäßigen Zeitabständen sowie unmittelbar bei Auftreten neuer Meldeanforderungen
+  fachliche Beurteilung und Auswirkungsanalyse bezogen auf Ihr Finanzinstitut
+  auf Anforderung: Diskussionsführung mit BaFin und Bundesbank
+  Übergabe, Präsentation und Diskussion der Auswirkungsanalyse</description>
+    </item>
+    
+    <item>
+      <title>Meldewesen OnDemand (Meldewesen-Service)</title>
+      <link>https://ssmiles11.github.io/services/meldewesen-on-demand/</link>
+      <pubDate>Wed, 27 Apr 2022 14:22:53 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/services/meldewesen-on-demand/</guid>
+      <description>Mit unserem Leistungsangebot „Meldewesen OnDemand“ bieten wir unseren Kunden die operative Übernahme exakt definierter Aufgaben innerhalb des kundenindividuellen Meldewesens auf Basis von Service Level Agreements (SLA). Wir übernehmen hierbei fachliche als auch technische Leistungen im Auftrag unserer Kunden:
+  Meldeerstellung – Wir übernehmen die Verantwortung für die Vorbereitung, Erstellung, Plausibilisierung und Abgabe von vereinbarten Meldungen
+  Technische Betreuung – Sie übertragen uns die laufenden Tätigkeiten zur Administration, Operating, Update und Qualitätssicherung der Meldesysteme</description>
+    </item>
+    
+    <item>
+      <title>Regression Testing (Meldewesen-Service)</title>
+      <link>https://ssmiles11.github.io/services/regression-testing/</link>
+      <pubDate>Wed, 27 Apr 2022 14:21:31 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/services/regression-testing/</guid>
+      <description>Regresssionstests im Meldewesen werden in kurzen Zeitabständen notwendig – sei es aufgrund geänderter Regulatorien, neuer Software-Releases der Hersteller oder Bank-interner Schnittstellen-Änderungen. Es stellt sich hier nicht die Frage ob, sondern in welchen Zeitabständen unterjährige Regressionstests seitens der Finanzinstitute einzuplanen sind. Zur Frequenz notwendiger Regressionstests im Meldewesen liegen intern meist gesicherte langährige Erfahrungen vor.
+Mit unserem Meldewesen-Service „Regression-Testing“ bieten wir Ihnen die Durchführung einer individuell vereinbarten Anzahl von Regressionstests pro Jahr zu einem vorab definierten Festpreis.</description>
+    </item>
+    
+    <item>
+      <title>GridCon Meldewesen-Services</title>
+      <link>https://ssmiles11.github.io/services/services/</link>
+      <pubDate>Wed, 27 Apr 2022 14:19:55 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/services/services/</guid>
+      <description>Aufsichtsnormen nationaler, europäischer und internationaler Ebene stellen das Meldewesen der Finanzinstitute vor zunehmend größere Herausforderungen. Die zugrunde liegenden Regelwerke werden zunehmend komplexer und weisen untereinander steigende Verflechtungen auf.
+Aufgrund kurzer Änderungszyklen der regulatorischen Vorgaben erhöht sich die Frequenz notwendiger Testaktivitäten im Meldewesen. Die kontinuierlich notwendige Auswirkungsanalyse für neue Regularien verursacht massive Belastungen in den verantwortlichen Fachabteilungen.
+Das aufsichtsrechtliche Meldewesen stellt damit einen beträchtlichen Kostenblock für Banken und Finanzinstitute dar.
+Das an sich regulatorisch getriebene Meldewesen hat sich aufgrund notwendiger Kostenreduktion sowie strategischer Integration in angrenzende bankfachliche Prozesse des Risk-Controlling, Management-Reporting, Treasury und Finance mittlerweile zum Wettbewerbsfaktor im Bankensektor entwickelt.</description>
+    </item>
+    
+  </channel>
+</rss>

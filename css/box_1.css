@@ -1,0 +1,59 @@
+/* 创建三个相等的列 */
+div.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    width: fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-left: 10%;
+    margin-right:10%;
+    margin-bottom: 5%;
+}
+
+.flex-item {
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+div.flex-container div.box1column {
+    background-color:whitesmoke;
+    margin-right:1%;
+    width: 330px;
+    height:210px;
+    margin-top:1cm;
+    border-left: solid 3px chocolate;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.box1column h1.title1 {
+    margin-left:3%;
+    font-size: 20px;
+    height: 60px;
+    color:chocolate;
+}
+
+.box1column p.description1{
+    margin-left: 3%;
+    font-size:15px;
+    height:50px
+}
+
+.box1column button.button1{
+    position: relative; 
+    left:200px;
+    top:20px;
+    background-color: chocolate;
+    border:solid 5px chocolate;
+}
+
+.box1column button.button1:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.box1column button.button1 a.box1{
+    text-decoration: none;
+    color: white;
+}

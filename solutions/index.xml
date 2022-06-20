@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solutions on GridCon Consulting GmbH</title>
+    <link>https://ssmiles11.github.io/solutions/</link>
+    <description>Recent content in Solutions on GridCon Consulting GmbH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2022 14:40:31 +0200</lastBuildDate><atom:link href="https://ssmiles11.github.io/solutions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solutions</title>
+      <link>https://ssmiles11.github.io/solutions/solutions/</link>
+      <pubDate>Wed, 27 Apr 2022 14:29:26 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/solutions/</guid>
+      <description>Unsere Produktpalette GRC² (Grid Reporting &amp;amp; Compliance Center) wurde gezielt für die Anforderungen des regulatorischen Reportings entwickelt und bietet umfassende Test-, Report- und Prozess-Automatisierung im Meldewesen.
+GRC² sowie die erhältlichen Zusatzmodule ermöglichen massive Effizienzsteigerungen im Regressionstest und Management-Reporting sowie in der operativen Ausführung des Meldewesens.</description>
+    </item>
+    
+  </channel>
+</rss>

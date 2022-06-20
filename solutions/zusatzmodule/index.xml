@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zusatzmodule on GridCon Consulting GmbH</title>
+    <link>https://ssmiles11.github.io/solutions/zusatzmodule/</link>
+    <description>Recent content in Zusatzmodule on GridCon Consulting GmbH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Apr 2022 13:58:55 +0200</lastBuildDate><atom:link href="https://ssmiles11.github.io/solutions/zusatzmodule/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GRC²  DataImporter</title>
+      <link>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-dataimporter/</link>
+      <pubDate>Wed, 27 Apr 2022 14:07:29 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-dataimporter/</guid>
+      <description>Import von Meldewesen-Datenbeständen aus einer CSV-Datei in eine Ziel-Datenbank
+  Gezielte Auswahl der zu importierenden Daten durch den Anwender
+  Automatisierte Ermittlung von Anzahl und Datentypen der zu importierenden Spalten mit Option zur Überprüfung und Anpassung durch den Anwender
+  Option zur Definition von SQL-Skripten, die vor bzw. nach dem Import auszuführen sind
+  Möglichkeit zur Speicherung der gesamten Parametrisierung eines Imports für die künftige Wiederverwendung (Konfiguration)</description>
+    </item>
+    
+    <item>
+      <title>GRC² DataExporter</title>
+      <link>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-dataexporter/</link>
+      <pubDate>Wed, 27 Apr 2022 14:05:33 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-dataexporter/</guid>
+      <description>  Export der Meldewesendaten aus einer Quell-Datenbank in eine CSV-Datei
+  Gezielte Auswahl der zu extrahierenden Felder durch den Anwender
+  Einstellungen zur Filterung der zu exportierenden Datensätze können hinterlegt werden
+  Option zur Definition von SQL-Skripten, die vor bzw. nach dem Export auszuführen sind
+  Möglichkeit zur Speicherung der gesamten Parametrisierung eines Exports für die künftige Wiederverwendung (Konfiguration)
+  </description>
+    </item>
+    
+    <item>
+      <title>GRC² DataMigrator</title>
+      <link>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-datamigrator/</link>
+      <pubDate>Wed, 27 Apr 2022 14:04:27 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-datamigrator/</guid>
+      <description>  Direkte selektive Übertragung von Daten aus einer Quell-Datenbank in eine Ziel-Datenbank
+  Optionen zur Hinterlegung von Filterbedingungen für die zu migrierenden Datensätze
+  Definition von SQL-Skripten zur Ausführung auf Quell- und Ziel-Datenbank vor und nach Migration
+  Möglichkeit zur Speicherung der Einstellungen für künftige Migrationen
+  </description>
+    </item>
+    
+    <item>
+      <title>GRC² GridValid</title>
+      <link>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-gridvalid/</link>
+      <pubDate>Wed, 27 Apr 2022 14:02:51 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-gridvalid/</guid>
+      <description>  Effiziente Durchführung von Formalprüfungen nach Vorgaben der Bundesbank
+  Implementierung Kunden-individueller Prüfungen und Validierungen für einzelne Meldebereiche oder Meldungsübergreifend
+  </description>
+    </item>
+    
+    <item>
+      <title>GRC² – GridSelect</title>
+      <link>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-gridselect/</link>
+      <pubDate>Wed, 27 Apr 2022 14:01:35 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-gridselect/</guid>
+      <description>Entlastung des Meldewesen-Systems und Performance-Optimierung bei Datenabfragen auf den Meldewesendatenbestand
+  Gezielte Vorselektion und Auslagerung von Daten, die für Reports auf Basis des Meldewesendatenbestands regelmäßig benötigt werden
+  Analyse der Datenströme innerhalb des Meldewesensystems und Bereitstellung häufig abgefragter Informationen in verdichteter Form in einer separaten Datenquelle
+  Selektives Lesen ausschließlich der Daten, die im Quellbestand seit der letzten Verarbeitung geändert wurden. Keine wiederholte vollständige Datenabfrage an die Quellsysteme</description>
+    </item>
+    
+    <item>
+      <title>GRC² GridReporting</title>
+      <link>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-gridreporting/</link>
+      <pubDate>Wed, 27 Apr 2022 13:59:59 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-gridreporting/</guid>
+      <description>Unser GRC²-Zusatzmodul „GridReporting“ bietet eine flexible Self Service Business Intelligence (SSBI) Lösung auf Basis des Meldewesen-Datenbestandes
+  Die Datenbestände des Meldewesens werden zur flexiblen Erstellung interner Managementreports sowie zur Erfüllung externer Reporting-Anforderungen genutzt
+  Die Reports werden dabei durch die Anwender selbständig definiert und erstellt
+  Auch komplexe Reporting-Anforderungen können ad-hoc beantwortet werden
+  Aufgrund unserer Kenntnis der Datenmodelle aller marktüblichen Meldewesensysteme stellen wir Ihnen bereits vordefinierte Abfragen in GridReporting bereit</description>
+    </item>
+    
+    <item>
+      <title>GRC² – GridAudit</title>
+      <link>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-gridaudit/</link>
+      <pubDate>Wed, 27 Apr 2022 13:58:24 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/zusatzmodule/grc2-gridaudit/</guid>
+      <description>  Hinweisgestützte Analyse und Identifikation von Abweichungen beim Datenabgleich im Rahmen von Releasewechseln der Meldewesensoftware
+  persistente Kennzeichnung einzelner Abweichungen mit eindeutigen IDs über mehrere Testreihen und Testiterationen
+  revisionssichere Dokumentation der Abweichungen. Gruppierungen und Klassifizierung von Abweichungen.
+  </description>
+    </item>
+    
+    <item>
+      <title>Zusatzmodule GRC²</title>
+      <link>https://ssmiles11.github.io/solutions/zusatzmodule/zusatzmodule/</link>
+      <pubDate>Wed, 27 Apr 2022 13:56:30 +0200</pubDate>
+      
+      <guid>https://ssmiles11.github.io/solutions/zusatzmodule/zusatzmodule/</guid>
+      <description>Die Funktionalität von GRC2 kann durch die Meldewesen-spezifische Zusatzmodule für die folgenden Zwecke umfassend erweitert werden:</description>
+    </item>
+    
+  </channel>
+</rss>
